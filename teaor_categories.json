@@ -1,0 +1,2220 @@
+{
+  "10": {
+    "code": "10",
+    "title": "Élelmiszergyártás",
+    "codeAndTitle": "10 Élelmiszergyártás",
+    "description": "Ebbe az ágazatba tartozik a mezőgazdaság, erdő- és halgazdálkodás termékeinek feldolgozása, ezekből emberi vagy állati felhasználásra készített élelmiszerek készítése, továbbá számos olyan köztes termék előállítása, amelyek közvetlenül nem élelmiszerek. E tevékenység gyakran eredményez értékes vagy kevésbé értékes melléktermékeket (például a vágóhídon a bőr, az étolajgyártásban az olajpogácsa).\n\nAz ágazat további bontását a termékek határozzák meg: hús, hal, gyümölcs, zöldség, zsír és olaj, tejtermék, gabonaőrlemények, takarmány és egyéb élelmiszerek. A termelés végezhető saját számlára vagy harmadik fél részére (például: állat bérvágása).\n\nA feldolgozóiparba tartoznak azok a tevékenységek is (például a pékség, tésztaüzlet, a hentes és mészáros stb., akik saját terméküket árusítják), amikor a gyártók a gyártással együtt kiskereskedelmi tevékenységet is folytatnak, még akkor is, ha a termék kiskereskedelmi értékesítése a gyártó saját üzletében történik. Ahol viszont a feldolgozás minimális mértékű és nem vezet igazi átalakításhoz, a gazdasági egységet a G (Kereskedelem, gépjárműjavítás) nemzetgazdasági ágba kell besorolni.\n\nAz 56-os (Vendéglátás) ágazatnál említetett feltételek mellett történhet élelmiszer előállítás közvetlen fogyasztásra.\n\nA vágóhidak hulladékának és melléktermékeinek feldolgozása takarmány céljára a 10.9-es alágazatba tartozik, az élelmiszer- és italtermékek előállítása során keletkező hulladék feldolgozását másodlagos nyersanyaggá a 38.3 alágazat, az élelmiszer- és italhulladék kezelését pedig a 38.21 szakágazat tartalmazza.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik az ételek elkészítése azonnali (pl. éttermi) fogyasztásra."
+  },
+  "11": {
+    "code": "11",
+    "title": "Italgyártás",
+    "codeAndTitle": "11 Italgyártás",
+    "description": "Ebbe az ágazatba tartozik az italok gyártása, úgymint az alkoholmentes ital és az ásványvíz gyártása, az általában erjesztéssel készült szeszes ital, a bor, a sör és az alkoholos italpárlat gyártása.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a gyümölcs-, zöldséglé gyártása, lásd: 10.32\n- a tejes italok gyártása, lásd: 10.51\n- a kávé, tea, matétea gyártása, lásd: 10.83"
+  },
+  "12": {
+    "code": "12",
+    "title": "Dohánytermék gyártása",
+    "codeAndTitle": "12 Dohánytermék gyártása",
+    "description": "Ebbe az ágazatba tartozik a dohány mint mezőgazdasági termék feldolgozása végső fogyasztásra alkalmas formába."
+  },
+  "13": {
+    "code": "13",
+    "title": "Textília gyártása",
+    "codeAndTitle": "13 Textília gyártása",
+    "description": "Ez az ágazat magában foglalja a textilszál előkészítését, fonását, a textilszövést, a textília és a ruházati termék kikészítését, a konfekcionált textiláru gyártását, a ruházat kivételével (pl. háztartási textília, takaró, pokróc, szőnyeg, kötél). A természetes szálak termelése a 01 Mezőgazdaság nemzetgazdasági ágba, míg a szintetikus szálak előállítása - vegyi folyamat - a 20.60 szakágazatba tartozik. A ruházati termékek gyártása a 14 ágazatba tartozik."
+  },
+  "14": {
+    "code": "14",
+    "title": "Ruházati termék gyártása",
+    "codeAndTitle": "14 Ruházati termék gyártása",
+    "description": "Ez az ágazat magában foglal mindennemű szabászati munkát (konfekció, mérték után készült ruha), mindenféle anyagból (pl. bőrből, textilből, kötött vagy hurkolt kelméből stb.), mindenféle ruhadarabot, ideértve pl. a férfi-, a női, a gyermek-felsőruházatot, alsóruházatot, a munkaruházatot, a hétköznapi vagy szabadidő-ruházatot stb. és a kellékeket. Nem teszünk különbséget a felnőtt-, illetve gyerek-, valamint a modern vagy hagyományos ruházat között.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a szőrmeipar (prém, szőrmeruházat gyártása)"
+  },
+  "15": {
+    "code": "15",
+    "title": "Bőr, bőrtermék, lábbeli gyártása",
+    "codeAndTitle": "15 Bőr, bőrtermék, lábbeli gyártása",
+    "description": "Ebbe az ágazatba tartozik a szőrmék kikészítése és festése, valamint a nyersbőr cserzése vagy konzerválása, illetve végtermékké feldolgozása.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a hasonló termékek gyártása egyéb anyagokból (műbőrből és bőrhelyettesítő anyagokból) pl. gumicipő, textiltáskák stb.\n- a bőrhelyettesítő anyagokból készült termékek, mivel a bőrtermékekhez hasonló eljárással, gyakran ugyanabban az üzemben készülnek (pl. táskák)"
+  },
+  "16": {
+    "code": "16",
+    "title": "Fafeldolgozás (kivéve: bútor), fonottáru gyártása",
+    "codeAndTitle": "16 Fafeldolgozás (kivéve: bútor), fonottáru gyártása",
+    "description": "Ez az ágazat tartalmazza a faáruk, úgymint a fűrészáru, a falemez, a tároló fatermék, a fa padlóburkoló, a fa tetőszerkezet, és az előre gyártott faépület gyártását. A faáru gyártási folyamata olyan műveletekből áll, mint a fűrészelés, a gyalulás, az alakítás, rétegelés (laminálás) és az összeállítás. A gyártási folyamat a fa fűrészáru előállításával kezdődik, ez tovább vágható vagy esztergálással, illetve más famegmunkáló géppel alakítható. A fűrészelt vagy más módon alakított fa gyalulható, csiszolható és késztermékké állítható össze (pl. tároló fatermékké).\n\nAz ágazat további bontása szakágazatokra - a fűrészárugyártás kivételével - az előállított termék fajtája alapján történik.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a bútorgyártás, lásd: 31.0\n- a faszerkezetek és berendezések helyszíni beépítése, lásd: 43.32, 43.33, 43.39"
+  },
+  "17": {
+    "code": "17",
+    "title": "Papír, papírtermék gyártása",
+    "codeAndTitle": "17 Papír, papírtermék gyártása",
+    "description": "Ez az ágazat tartalmazza a papíripari rostanyag, a papír és a feldolgozott papírtermékek előállítását. E termékek gyártásának folyamatai vertikálisan kapcsolódó sorozatot alkotnak, ezért azonos ágazatba tartoznak. Egy gyártó egység általában egynél több tevékenységet is végez.\n\nAz ágazat három alapvető tevékenysége különböztethető meg. A papíripari rostanyag gyártása tartalmazza a cellulózrostok elválasztását más növényi nyersanyagoktól, vagy a papírhulladék feloldását és a festék eltávolítását, továbbá a rostok kötésének megerősítése érdekében vegyszerek belekeverését kis mennyiségben . A papírgyártás során a rostanyagot feloldással rugalmas összekapcsolódó szerkezetté alakítják, hogy folyamatos lapot nyerjenek. A papírból és más anyagokból különféle műveletekkel, eljárásokkal papírárukat állítanak elő.\n\nA papíráruk készülhetnek nyomottan (pl. tapéta, ajándékcsomagoló papír stb.), vagy nyomás nélküli kivitelben, ez azonban a termék eredeti rendeltetését nem befolyásolja.\n\nA további ipari feldolgozásra kerülő papíripari rostanyag, a papír és a karton gyártása a 17.1 alágazatba tartozik, a többi szakágazat a továbbfeldolgozott papír és a papírtermékek gyártását tartalmazza."
+  },
+  "18": {
+    "code": "18",
+    "title": "Nyomdai és egyéb sokszorosítási tevékenység",
+    "codeAndTitle": "18 Nyomdai és egyéb sokszorosítási tevékenység",
+    "description": "Ebbe az ágazatba tartozik a termékek nyomtatása, úgymint a napilap, a folyóirat, a könyv, az üzleti formanyomtatvány, a képeslap és más termékek nyomtatása; továbbá a kapcsolódó kisegítő tevékenységek, úgymint a könyvkötés, a nyomólemez-készítés, az adatokból képalkotás stb. Az idetartozó kisegítő tevékenységek a nyomdaipar szerves részét képezik, és ezen műveletek is hozzájárulnak a nyomdaipar termékeinek (nyomólemez, bekötött könyv, számítógépes CD vagy fájl stb.) előállításához.\n\nTöbbféle nyomási eljárás létezik a képeknek lemezről, szitáról vagy adatállományból valamilyen nyomathordozóra átvitelére, legyen az a papír, műanyag, fém, textil vagy fa. A legelterjedtebb módszer a képek nyomathordozóra vitelére a nyomólemez vagy -szita alkalmazása. Ez történhet a síknyomtatás, mélynyomtatás, szitanyomás és flexonyomás eljárásaival. Általános eljárás, hogy a számítógépes adatállomány közvetlenül vezérli a képet létrehozó nyomtató szerkezetet vagy az elektrosztatikus, illetve egyéb eljárással működő berendezést (ez a digitális vagy nem érintéses nyomtatás).\n\nBár a kiadói és a nyomdai tevékenységet végezheti ugyanaz a gazdasági egység (pl. a napilapoknál), azonban egyre kevésbé jellemző, hogy ezeket az elkülönült tevékenységeket ugyanazon a telephelyen végezzék.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még:\n- a felvételes információhordozók, úgymint hang- és videofelvételt, szoftvert tartalmazó lemez, kompaktlemez, szalag sokszorosítása",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a kiadói tevékenység, lásd: J nemzetgazdasági ág"
+  },
+  "19": {
+    "code": "19",
+    "title": "Kokszgyártás, kőolaj-feldolgozás",
+    "codeAndTitle": "19 Kokszgyártás, kőolaj-feldolgozás",
+    "description": "Ebbe az ágazatba tartozik a szén és a nyers kőolaj feldolgozása. A kőolaj-feldolgozás leglényegesebb folyamata a kőolaj-finomítás: a nyers kőolaj szétválasztása alkotóelemeire olyan technológiával, mint a krakkolás és desztilláció.\n\nEbbe az ágazatba tartozik a kőolaj-finomítók által termelt gáz, például az etán, propán, bután gyártása is.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a saját számlás tevékenységgel előállított jellemző termékek (pl. koksz, bután, propán, benzin, kerozin, fűtőolaj stb.) gyártása, valamint a kapcsolódó szolgáltatások (pl. bérfinomítás)",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a más gazdasági egységekben végzett gázgyártás, lásd: 20.14\n- az ipari gáz gyártása, lásd: 20.11\n- a természetes gázok (metán, etán, bután, propán) kitermelése, lásd: 06.20\n- a nem kőolajgázból nyert gáznemű fűtőanyagok (széngáz, vízgáz, generátorgáz, gázgyári gáz) gyártása, lásd: 35.21\n- a petrolkémiai termék gyártása a kőolaj-finomítóban, lásd: 20 ágazat"
+  },
+  "20": {
+    "code": "20",
+    "title": "Vegyi anyag, -termék gyártása",
+    "codeAndTitle": "20 Vegyi anyag, -termék gyártása",
+    "description": "Ebbe az ágazatba tartozik az átalakítás vegyipari eljárásokkal és termék-előállítás a szerves és szervetlen nyersanyagokból. A vegyi alapanyagok gyártása - ami az első alágazatot alkotja - eltér a vegyi alapanyagok tovább-feldolgozásával előállított intermedierek és végtermékek gyártásától, ezek a további szakágazatokba tartoznak."
+  },
+  "21": {
+    "code": "21",
+    "title": "Gyógyszergyártás",
+    "codeAndTitle": "21 Gyógyszergyártás",
+    "description": "Ebbe az ágazatba tartozik a gyógyszeralapanyag és a gyógyszerkészítmény gyártása.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a gyógyászati célú vegyi és növényi eredetű termékek előállítása"
+  },
+  "22": {
+    "code": "22",
+    "title": "Gumi-, műanyag termék gyártása",
+    "codeAndTitle": "22 Gumi-, műanyag termék gyártása",
+    "description": "Ebbe az ágazatba tartozik a gumi-, műanyag termék gyártása. Az ágazatot a termelési folyamatban felhasznált nyersanyagok jellemzik. Ez azonban nem jelenti azt, hogy idetartozna minden olyan termék, melyet ezekből az anyagokból készítenek."
+  },
+  "23": {
+    "code": "23",
+    "title": "Nemfém ásványi termék gyártása",
+    "codeAndTitle": "23 Nemfém ásványi termék gyártása",
+    "description": "Ebbe az ágazatba azok a feldolgozóipari tevékenységek tartoznak, amelyek egyetlen ásványi anyaggal kapcsolatosak. Idetartozik az üveg és üvegtermék (például síküveg, öblösüveg, üvegszál, műszaki üveg), a kerámiatermék gyártása, a csempe és égetett agyagtermék, cement és gipsz termékek gyártása a nyersanyagoktól a késztermékig.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a kő- és egyéb ásványi termék megmunkálása"
+  },
+  "24": {
+    "code": "24",
+    "title": "Fémalapanyag gyártása",
+    "codeAndTitle": "24 Fémalapanyag gyártása",
+    "description": "Ez az ágazat tartalmazza a vas- és nemvas fémek előállítását, finomítását ércből, nyersvasból vagy fémhulladékból, elektrokohászati vagy más kohászati eljárásokkal.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az ötvözetek, és szuperötvözetek gyártása is, más elemek hozzáadásával a tiszta fémekhez\n\nAz olvasztás és finomítás végtermékét - általában öntött termék formájában - hengereléssel, húzással és extrudálással lemez, szalag, rúd, huzal vagy cső és zárt szelvény előállítására használják; öntéssel öntvényt, továbbá más fémalapanyagot készítenek belőle."
+  },
+  "25": {
+    "code": "25",
+    "title": "Fémfeldolgozási termék gyártása",
+    "codeAndTitle": "25 Fémfeldolgozási termék gyártása",
+    "description": "Ez az ágazat magában foglalja az olyan tisztán fémtermékek gyártását, amelyek funkciójuknál fogva általában statikusak, mozdíthatatlanok (pl. fémszerkezetek, tartályok, alkatrészek). Ezzel szemben a 26-30 ágazatokba az előbbi fémtermékekből (és más anyagokból) összeszerelt, komplex (összetett) termékek gyártása tartozik, amelyek mozgó alkatrészekkel működnek, ide nem értve a kizárólag villamos, elektronikus vagy optikai rendszerű gépeket, készülékeket.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a fegyverek, lőszerek gyártása",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a gépek szakosodott javító, karbantartó tevékenysége, lásd: 33.1\n- az itt előállított javak beépítése, felszerelése az építménybe, pl. központi fűtési bojlerek, lásd: 43.22"
+  },
+  "26": {
+    "code": "26",
+    "title": "Számítógép, elektronikai, optikai termék gyártása",
+    "codeAndTitle": "26 Számítógép, elektronikai, optikai termék gyártása",
+    "description": "Ebbe az ágazatba tartozik a számítógép, számítógép periféria, híradás-technikai berendezés és hasonló elektronikai termék, valamint e termékek alkatrészeinek gyártása. Jellemző ezen ágazat termelési folyamataira az integrált áramkörök tervezése és használata, illetve a mikroelektronikai technológia szakosodott alkalmazása.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az elektronikus fogyasztási cikkek, a mérő-, vizsgáló-, navigációs berendezések, sugárzásos, elektromos orvosi és terápiás berendezések, optikai eszközök és berendezések, valamint a mágneses és optikai jelhordozók gyártása"
+  },
+  "27": {
+    "code": "27",
+    "title": "Villamos berendezés gyártása",
+    "codeAndTitle": "27 Villamos berendezés gyártása",
+    "description": "Ez az ágazat tartalmazza a villamos energiát fejlesztő vagy elosztó berendezések gyártását.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a villamos világítóeszközök, jelzőberendezések és elektromos háztartási készülékek gyártása",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- az elektronikai termékek gyártása, lásd: 26 ágazat"
+  },
+  "28": {
+    "code": "28",
+    "title": "Gép, gépi berendezés gyártása",
+    "codeAndTitle": "28 Gép, gépi berendezés gyártása",
+    "description": "Ebbe az ágazatba tartozik az olyan gépek, gépi berendezések gyártása, amelyek az anyag független feldolgozására alkalmasak, a feldolgozás történhet mechanikai, termikus eljárással, vagy más technológiával, mint pl. továbbítás, szórás, tömegmérés, csomagolás stb. Idetartoznak ezek mechanikai alkatrészei, amelyek rendeltetése az erő kifejtése, alkalmazása, és elsődlegesen ilyen speciális célra alkalmasak. Ebbe az ágazatba tartozik a helyhez kötött és hordozható, vagy a kézben tartott eszközök gyártása is, attól függetlenül, hogy azokat az iparban, az épületek, építmények építésében, a mezőgazdaságban vagy a háztartásban alkalmazzák. Az itt meghatározott feltételeket teljesítő, a személyek vagy áruk szállításában alkalmazott speciális gépi berendezések gyártása szintén ebbe az ágazatba tartozik.\n\nAz ágazat megkülönbözteti egyrészről a \"speciális\" és az \"általános\" rendeltetésű gépi berendezések gyártását, azaz az egyetlen vagy néhány TEÁOR-ágazatban alkalmazott speciális gépeket azoktól, amelyeket az ágazatok széles körében, általánosan alkalmaznak.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a nem termelőfolyamatban alkalmazott speciális rendeltetésű gépek, gépi berendezések gyártása, mint pl. tekepálya, más szórakoztató, vásári és szabadidő berendezés",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- az általános rendeltetésű fémfeldolgozási termékek gyártása, lásd: 25 ágazat\n- az irányítástechnika és számítástechnika eszközeinek a mérő- és vizsgálókészülékek, az elektromos elosztó-, irányítókészülékek gyártása, lásd: 26 és 27 ágazat\n- az általános rendeltetésű gépjárművek gyártása, lásd: 29 és 30 ágazat"
+  },
+  "29": {
+    "code": "29",
+    "title": "Közúti jármű gyártása",
+    "codeAndTitle": "29 Közúti jármű gyártása",
+    "description": "Ebbe az ágazatba tartozik a személyek és áruk szállítására alkalmas közúti jármű gyártása. Idetartozik a jármű különféle alkatrészeinek, tartozékainak valamint a pótkocsik, félpótkocsik gyártása.\n\nA jármű karbantartása, javítása a 45.20 szakágazatba tartozik."
+  },
+  "30": {
+    "code": "30",
+    "title": "Egyéb jármű gyártása",
+    "codeAndTitle": "30 Egyéb jármű gyártása",
+    "description": "Ebbe az ágazatba tartozik a hajók, csónakok, a vasúti vontatott és vontató járművek, a légi járművek és egyéb mns. járművek, valamint ezek alkatrészeinek gyártása."
+  },
+  "31": {
+    "code": "31",
+    "title": "Bútorgyártás",
+    "codeAndTitle": "31 Bútorgyártás",
+    "description": "Ez az ágazat tartalmazza a bútorok és a hasonló rendeltetésű termékek gyártását bármilyen anyagból, a kő, beton és kerámia kivételével. A bútorgyártás folyamata az anyagok megmunkálásának és a termék összetevői összerakásának alapvető műveleteiből áll, beleértve az anyagok méretre vágását, formázását és rétegelését is. A termelési folyamat fontos szempontja a termék formaterve mind esztétikai, mind funkcionális jellemzők szerint.\n\nA bútorgyártás egyes folyamatai hasonlóak a feldolgozóipar más területein alkalmazottakhoz. A fabútorvázgyártás vágó- és összerakó műveletei a 16 (Fafeldolgozás és fatermékek gyártása) ágazatba tartoznak. A fabútor gyártását azonban a fatermékek gyártásától megkülönböztetik ennek sokrétű folyamatai. A fémbútor gyártására hasonló technikák jellemzők, amilyeneket a 25 (Fémtermékek gyártása) ágazatba tartozó, hengeres termékek gyártásánál is alkalmaznak, a műanyag bútor gyártása is hasonló más műanyag termék formázásához, a műanyag bútorok készítése azonban általában szakosodott tevékenység."
+  },
+  "32": {
+    "code": "32",
+    "title": "Egyéb feldolgozóipari tevékenység",
+    "codeAndTitle": "32 Egyéb feldolgozóipari tevékenység",
+    "description": "Ebbe az ágazatba tartozik máshova nem sorolt különféle feldolgozóipari termékek gyártása. Az ágazat összetettsége miatt a termelési folyamatok, a felhasznált anyagok és a gyártott termékek széles skálán mozoghatnak. A szakágazatba sorolásukhoz általános szabály nem alkalmazható."
+  },
+  "33": {
+    "code": "33",
+    "title": "Ipari gép, berendezés, eszköz javítása, üzembe helyezése",
+    "codeAndTitle": "33 Ipari gép, berendezés, eszköz javítása, üzembe helyezése",
+    "description": "Ebbe az ágazatba tartozik a feldolgozóiparban előállított termékek szakosodott javítása, azzal a céllal, hogy a gépi berendezés, készülék és egyéb termék megfelelően működjön. Az ágazatba tartozik továbbá a termékek általános és rendszeres karbantartása (azaz szervizelése) is, ami a hatékony működést biztosítja, és segít megelőzni a váratlan géphibákat és a szükségtelen javításokat.\n\nEz az ágazat csak a szakosodott javító és karbantartó tevékenységeket tartalmazza. A javítások számottevő részét maguk a gépet, berendezést és hasonló terméket gyártók is végzik, ilyen esetben a gazdasági egység besorolása a hozzáadott érték elve szerint történik, amint az gyakran jellemzi a javak előállításának összetett tevékenységeit. Ugyanez az alapelv vonatkozik a kereskedelem és a javítás összetett eseteire is.\n\nGyártásnak minősül a gépek és berendezések átalakítása vagy ismételt feldolgozása, ezért az ennek a nemzetgazdasági ágnak más ágazatába tartozik.\n\nOlyan javak javítása és karbantartása, amelyeket termelőeszközként és fogyasztási cikként egyaránt használnak, a háztartási cikkek javításába, karbantartásába tartozik (pl. irodai és lakásbútorok javítása, lásd: 95.24).",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a gépek helyszíni szerelése\n\nAz építőiparba tartozik azonban az épületek szerves részét képező berendezések helyszíni szerelése, mint pl. a villanyszerelés, a liftszerelés, a mozgólépcsők beszerelése, vagy légkondicionáló rendszerek felszerelése.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- az ipari gép tisztítása, lásd: 81.22\n- a számítógép és kommunikációs berendezés javítása és karbantartása, lásd: 95.1\n- a háztartási cikkek javítása és karbantartása, lásd: 95.2"
+  },
+  "35": {
+    "code": "35",
+    "title": "Villamosenergia-, gáz-, gőzellátás, légkondicionálás",
+    "codeAndTitle": "35 Villamosenergia-, gáz-, gőzellátás, légkondicionálás"
+  },
+  "36": {
+    "code": "36",
+    "title": "Víztermelés, -kezelés, -ellátás",
+    "codeAndTitle": "36 Víztermelés, -kezelés, -ellátás",
+    "description": "Ebbe az ágazatba tartozik a vízkivétel, -kezelés és az ipari, illetve háztartási célú vízelosztás. Idetartozik még a vízkivétel különböző forrásokból és elosztása különböző eszközökkel."
+  },
+  "37": {
+    "code": "37",
+    "title": "Szennyvíz gyűjtése, kezelése",
+    "codeAndTitle": "37 Szennyvíz gyűjtése, kezelése",
+    "description": "Ebbe az ágazatba tartozik a szennyvízkezelő rendszerek és berendezések működtetése, amelynek célja a szennyvíz összegyűjtése, kezelése és lerakása."
+  },
+  "38": {
+    "code": "38",
+    "title": "Hulladékgazdálkodás",
+    "codeAndTitle": "38 Hulladékgazdálkodás",
+    "description": "Ebbe az ágazatba tartoznak mindazok a tevékenységek, amelyek célja a hulladékok gyűjtése, kezelése, és lerakása.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még a hulladékok kis távolságokon belüli szállítása, valamint a hulladékok újrahasznosítását végző berendezések működtetése (pl. hulladékáramból a hasznosítható anyagok leválogatása)."
+  },
+  "39": {
+    "code": "39",
+    "title": "Szennyeződésmentesítés, egyéb hulladékkezelés",
+    "codeAndTitle": "39 Szennyeződésmentesítés, egyéb hulladékkezelés",
+    "description": "Ebbe az ágazatba tartoznak a szennyeződésmentesítés tevékenységei, pl. az épület, a telephely, a talaj, a felszíni- vagy talajvíz szennyeződéseinek eltávolítása."
+  },
+  "41": {
+    "code": "41",
+    "title": "Épületek építése",
+    "codeAndTitle": "41 Épületek építése",
+    "description": "Ebbe az ágazatba tartozik bármilyen típusú épület szerkezetkész építése. Idetartozik az új épület építése, a meglévő építmények javítása, bővítése és átalakítása, az előre gyártott épület vagy egyéb szerkezet helyszíni felállítása, beleértve az ideiglenes jellegű építményekét is.\n\nIdetartozik a teljes lakóépület, irodaház, kereskedelmi, közösségi, közcélú, mezőgazdasági stb. épület építése."
+  },
+  "42": {
+    "code": "42",
+    "title": "Egyéb építmény építése",
+    "codeAndTitle": "42 Egyéb építmény építése",
+    "description": "Ebbe az ágazatba tartozik bármilyen egyéb építmény szerkezetkész építése. Idetartozik az új egyéb építmény építése, a meglévő épület javítása, bővítése és átalakítása, az előregyártott szerkezet helyszíni felállítása, beleértve az ideiglenes jellegű építményét is.\n\nIdetartozik az egyéb építmények pl. autópálya, út, híd, alagút, vasút, repülőtér, kikötő és egyéb vízi létesítmény, öntözőrendszer, szennyvízcsatorna-rendszer, ipartelep, csővezeték, elektromos vezeték, szabadtéri sportlétesítmény stb. építése. Ezek a munkák saját vállalkozásban, díjazásért vagy szerződéses alapon végezhetők. A munkák egy része (vagy esetenként az egésze) alvállalkozók által is kivitelezhető."
+  },
+  "43": {
+    "code": "43",
+    "title": "Speciális szaképítés",
+    "codeAndTitle": "43 Speciális szaképítés",
+    "description": "Ebbe az ágazatba tartoznak a szakosodottan végzett szaképítési tevékenységek, pl. épület és egyéb építmény egyes részeinek építése, valamint a kapcsolódó előkészítő munkák végzése. Ezek a munkák általában a különböző építményeknél bizonyos szempontból azonos szakképzettséget vagy eszközöket igényelnek. Ilyen például a cölöpverés, az alapozás, a vasszerkezet építése, a betonozás, a falazás, a kőlerakás, az állványozás, a tetőfedés stb., de a nem saját előállítású acélszerkezet felállítása is idetartozik. A szaképítés szakosodott tevékenységeit általában alvállalkozói szerződések alapján végzik, ám különösen a javításokat, közvetlenül az építmény tulajdonosa részére teljesítik. \n\nIdetartozik minden olyan épületgépészeti szerkezet beszerelése, amelyek az építmény használhatóságához szükségesek. Ezeket a munkákat általában az építkezés helyszínén végzik, egy részük azonban műhelyben is elvégezhető. Idetartozik pl. a csőhálózat, a fűtő- és légkondicionáló rendszer szerelése, az antenna, riasztórendszer szerelése és egyéb villamos munka, a locsolórendszer, a felvonó és a mozgólépcső stb. szerelése. Idetartozik a szigetelési munka (víz, hő, hang), a fémmunka az épületen, a kereskedelmi hűtőrendszer kivitelezése, út, vasút, repülőtér, kikötő stb. világító- és jelzőrendszereinek felszerelése. \n\nAz előbbiek javítása, karbantartása is idetartozik. \n\nEbbe az ágazatba tartoznak még a befejező építési munkák is. \n\nA befejező építési munkák közé azon tevékenységet sorolhatók, amelyek hozzájárulnak az építmény teljessé tételéhez, kész állapotba hozásához, úgymint üvegezés, vakolás, festés, padló és fal burkolása, illetve befedése olyan anyagokkal, mint parketta, szőnyeg, tapéta stb., padlócsiszolás, befejező ácsmunkák, akusztikai célú munkák, épület külső tisztítása. Az előbbiek javítási munkái is idetartoznak. \n\nAz építési eszköz kölcsönzése személyzettel az adott eszközzel végzett építőipari tevékenységhez tartozik."
+  },
+  "45": {
+    "code": "45",
+    "title": "Gépjármű-, motorkerékpár kereskedelme, javítása",
+    "codeAndTitle": "45 Gépjármű-, motorkerékpár kereskedelme, javítása",
+    "description": "Ez az ágazat magában foglalja (a gyártás és a bérbeadás kivételével) a gépjárművekkel (beleértve a tehergépjárműveket is) és motorkerékpárokkal kapcsolatos valamennyi tevékenységet, úgymint az új és használt gépjárművek nagy- és kiskereskedelme, javítása és karbantartása, a gépjárművek és motorkerékpárok alkatrészeinek és tartozékainak nagy- és kiskereskedelme. Ebbe az ágazatba tartoznak a járművek nagy- és kiskereskedelemével kapcsolatos bizományos ügynöki tevékenységek.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még:\n- az olyan tevékenységek is, mint a jármű mosása, fényezése stb.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a gépjármű-üzemanyag, -kenőanyag és -hűtőanyag értékesítése, lásd: 46.12, 46.71, 47.30, 47.78\n- a gépjármű és motorkerékpár bérbeadása, lásd: 77.1"
+  },
+  "46": {
+    "code": "46",
+    "title": "Nagykereskedelem (kivéve: jármű, motorkerékpár)",
+    "codeAndTitle": "46 Nagykereskedelem (kivéve: jármű, motorkerékpár)",
+    "description": "Ebbe az ágazatba tartozik a saját számlás, illetve az ügynöki (bizományosi) nagykereskedelem, ideértve a hazai, illetve a nemzetközi kereskedelmet (import/export) is.",
+    "inThisCategoryMore": "Ebbe az ágazatba tartozik - magyar kiegészítés:\nA nagykereskedelem az új és a használt cikkek (átalakítás nélküli) viszonteladása kiskereskedőknek; ipari, kereskedelmi, közületi vagy szakmai felhasználóknak vagy más nagykereskedőknek, avagy (magánszemélyként, vállalkozásként) ügynöki, brókeri közreműködés az áruk vételében vagy eladásában. \n\nAz ilyen ügyletekkel foglalkozó vállalkozások közé tartoznak az áruk forgalmazására jogosult nagykereskedők, ipari elosztók, exportőrök, importőrök, beszerzési társulások, illetve a gyártó- vagy bányászati egységek által termékeik marketingje érdekében fenntartott, a más telephelyen működő értékesítési irodák (ahol nem folyik kiskereskedelem), amelyek nem pusztán a gyártó- vagy bányászati egységtől közvetlen kiszállítással teljesítendő rendelések felvételét végzik. Idetartoznak az árutőzsdei brókerek, megbízásos kereskedők és ügynökök, a mezőgazdasági termékek marketingjével foglalkozó beszerzési és értékesítési társulások. \n\nA nagykereskedelembe tartoznak a nagykereskedelmi értékesítés keretében végzett szokásos tevékenységek, úgymint az áruk felvásárlása, válogatása, osztályozása nagy tételben, ömlesztett áruk újracsomagolása, elosztása kisebb kiszerelésben (pl. gyógyszerek esetében); az áruk raktározása, hűtése, kiszállítása, üzembe helyezése, részvétel eladásösztönzésben, címketervezés.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a gépjárművek, lakókocsik és motorkerékpárok nagykereskedelme, lásd: 45.1, 45.4\n- a gépjármű-alkatrészek nagykereskedelme, lásd: 45.31, 45.40\n- a bérbeadás, lízingelés, lásd: 77 ágazat\n- a szilárd anyagok csomagolása, és a folyékony vagy gáznemű anyagok palackozása díjazásért vagy szerződéses alapon (beleértve az elegyítést és a szűrést is), lásd: 82.92"
+  },
+  "47": {
+    "code": "47",
+    "title": "Kiskereskedelem (kivéve: gépjármű, motorkerékpár)",
+    "codeAndTitle": "47 Kiskereskedelem (kivéve: gépjármű, motorkerékpár)",
+    "description": "Ez az ágazat tartalmazza az új és használt áruk átalakítás nélküli értékesítését a nagyközönség, elsősorban a lakosság részére, személyes vagy háztartási célú fogyasztásra, illetve felhasználásra, üzletekben, áruházakban, piaci és utcai standokon, csomagküldő szolgálatokon, házaló kereskedőkön, fogyasztási szövetkezeteken stb. keresztül.\n\nA kiskereskedelem további osztályozása elsődlegesen az értékesítés helye szerint történik (bolti kiskereskedelem: 47.1-47.7; nem bolti kiskereskedelem: 47.8 és 47.9). A bolti kiskereskedelem magában foglalja a használt áruk kiskereskedelmét is (47.79). A bolti kiskereskedelemben megkülönböztetjük az áruk szakosodott (47.2- 47.7) és nem szakosodott (47.1) kiskereskedelmét. Ezek az alágazatok az eladott áruk fajtái szerint még tovább bonthatók. A nem bolti kiskereskedelmet az értékesítés módjának megfelelően soroljuk be a piaci kiskereskedelem (47.8) vagy az egyéb nem bolti kiskereskedelem (47.9) körébe. Ez utóbbiba tartozik pl. a csomagküldő, a házaló kiskereskedelem vagy az értékesítés automatán keresztül.\n\nEzen ágazatban az értékesített áruk köre érthető okokból az ún. fogyasztási javakra korlátozódik. Ezért nem tartoznak ide azok az áruk, amelyek általában nem kerülnek kiskereskedelmi forgalomba, így pl. a különböző gabonafélék, ércek, ipari gépek és felszerelések stb.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még:\n- az olyan kereskedelmi egységek, amelyek széles közönségnek értékesítenek, gyakran minta után, olyan termékeket, mint pl. írógépek, papíráru, festék, faáru, amelyek nem kizárólag személyes, vagy háztartási célt szolgálnak. Az áruk szokásos kezelése pl. szortírozása, szétszedése, keverése a kiskereskedelemi tevékenység keretében is idetartozik, ha nem változtatja meg azok jellegét.\n\nEzen ágazatba tartozik a bizományosi, ügynöki kiskereskedelem, valamint az aukciósházak kiskereskedelmi tevékenysége.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a mezőgazdasági termékek termelői értékesítése, lásd: 01 ágazat\n- a feldolgozóiparba tartozó termékek előállítása és termelő általi értékesítése, lásd: 10-32 ágazatok\n- a gépjárművek, motorkerékpárok és alkatrészeik kereskedelme, lásd: 45 ágazat\n- a gabona-, érc-, nyersolaj, ipari vegyi anyag, vas és acél, ipari gépek és felszerelések kereskedelme, lásd: 46 ágazat\n- az étel- és italértékesítés helyszíni fogyasztásra és elvitelre, lásd: 56 ágazat\n- a személyi használatú háztartási cikkek kölcsönzése a lakosságnak, lásd: 77.2"
+  },
+  "49": {
+    "code": "49",
+    "title": "Szárazföldi, csővezetékes szállítás",
+    "codeAndTitle": "49 Szárazföldi, csővezetékes szállítás",
+    "description": "Ebbe az ágazatba tartozik a közúti és vasúti személy- és áruszállítás, valamint a csővezetékes áruszállítás."
+  },
+  "50": {
+    "code": "50",
+    "title": "Vízi szállítás",
+    "codeAndTitle": "50 Vízi szállítás",
+    "description": "Ebbe az ágazatba tartozik a menetrendszerű vagy nem menetrendszerű személy- és áruszállítás vízi úton . Idetartozik a toló- és vontatóhajók, kirándulóhajók, városnéző hajók, kompok, vízi taxik stb. üzemeltetése is. Bár a földrajzi elhelyezkedés jelzi a tengeri, illetve a belvízi szállítás közötti eltérést, a döntő tényező az alkalmazott hajó típusa. A szállítás tengerjáró hajón az 50.1 és 50.2 alágazathoz, a szállítás egyéb hajón 50.3 és 50.4 alágazathoz tartozik.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a hajók fedélzetén külön egységként működtetett vendéglő- és bárszolgáltatás, lásd: 56.10, 56.30"
+  },
+  "51": {
+    "code": "51",
+    "title": "Légi szállítás",
+    "codeAndTitle": "51 Légi szállítás",
+    "description": "Az ágazat tartalmazza személy- és áruszállítást légi úton vagy a világűrön keresztül.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a mezőgazdasági légi permetezés, lásd: 01.61\n- a repülőgép vagy a repülőgép-hajtómű javítás és karbantartás, a gyári nagyjavítás kivételével, lásd: 33.16\n- a repülőtéri tevékenység, lásd: 52.23\n- a légi hirdetés (pl. füstírással), lásd: 73.11\n- a légi felvétel készítés, lásd: 74.20"
+  },
+  "52": {
+    "code": "52",
+    "title": "Raktározás, szállítást kiegészítő tevékenység",
+    "codeAndTitle": "52 Raktározás, szállítást kiegészítő tevékenység",
+    "description": "Ebbe az ágazatba tartozik a raktározás és a szállítást kiegészítő tevékenység, mint a szállítási infrastruktúra működtetése (pl. repülőterek, kikötők, alagutak, hidak stb.), a szállítási ügynökségek tevékenysége és a rakománykezelés."
+  },
+  "53": {
+    "code": "53",
+    "title": "Postai, futárpostai tevékenység",
+    "codeAndTitle": "53 Postai, futárpostai tevékenység",
+    "description": "Ebbe az ágazatba tartozik a postai és futárpostai szolgálat, levelek és csomagok felvétele, szállítása és kézbesítése.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a helyszíni kézbesítés és a küldönc szolgáltatás"
+  },
+  "55": {
+    "code": "55",
+    "title": "Szálláshely-szolgáltatás",
+    "codeAndTitle": "55 Szálláshely-szolgáltatás",
+    "description": "Ebbe az ágazatba tartozik a rövid időtartamú tartózkodás céljára a látogatók és egyéb utazók számára nyújtott szálláshely-szolgáltatás.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a diákok, munkások és hasonló személyek részére nyújtott hosszabb időtartamú szálláshely-szolgáltatás\nVannak csak szálláshely-szolgáltatást nyújtó, illetve a szálláshely-szolgáltatást, étkezést és/vagy pihenési, szabadidős lehetőségeket együtt kínáló egységek.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a hosszú időtartamú, jellemzően havi vagy éves tartózkodást biztosító, elsődlegesen lakóhelynek minősülő szállás biztosítása, lásd: L nemzetgazdasági ág"
+  },
+  "56": {
+    "code": "56",
+    "title": "Vendéglátás",
+    "codeAndTitle": "56 Vendéglátás",
+    "description": "Ez az ágazat tartalmazza az összes azonnali közvetlen fogyasztásra alkalmas étel és ital kiszolgálást, amely történhet hagyományos étteremben, önkiszolgáló étteremben, olyan étteremben, ahonnét elvihető az étel-ital, állandó vagy ideiglenes elárusítóhelyen, ülőhely biztosításával vagy anélkül. Az a döntő, hogy az ételek közvetlen azonnali fogyasztásra alkalmasak-e, és nem annak a létesítménynek a fajtája, amely a szolgáltatást végzi.",
+    "notInThisCategory": "Nem tartozik ide olyan készételek előállítása, amelyeket nem azonnali fogyasztásra gyártottak, valamint olyan félkésztermékek sem, amelyek nem tekinthetők készételnek (lásd: 10 Élelmiszer-feldolgozás és 11 Italgyártás). Nem tartozik ide azoknak a nem saját előállítású termékeknek az értékesítése sem, amelyek nem tekinthetők ételnek, sem azok az ételek, amelyek nem alkalmasak azonnali közvetlen fogyasztásra, lásd: G (Nagy- és kiskereskedelem) nemzetgazdasági ág."
+  },
+  "58": {
+    "code": "58",
+    "title": "Kiadói tevékenység",
+    "codeAndTitle": "58 Kiadói tevékenység",
+    "description": "Ez az ágazat tartalmazza a könyv, brosúra, prospektus, szótár, lexikon és enciklopédia, atlasz, térkép és grafikai mű kiadását; a napilap, folyóirat és időszaki kiadványok, címtárak, levelezőlisták kiadását, és egyéb kiadó tevékenységeket beleértve a szoftverkiadást.\n\nA kiadói tevékenységbe tartozik a tartalomhoz (információs termékhez) kapcsolódó szerzői jogok (copyrights) megszerzése, továbbá az ilyen tartalom elérhetővé tétele a nagyközönség számára, miközben a kiadó a tartalmat különböző formákban reprodukálja és terjeszti. Ebbe az ágazatba tartozik a kiadás minden lehetséges formája (nyomtatott, elektronikus vagy hang alakban az interneten, vagy egyéb multimédiás termékként, mint amilyen a CD-ROM tájékoztató kiadványok), a mozgókép terjesztésének kivételével.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a mozgókép, video- és mozifilmek kiadása DVD-n és hasonló egyéb hordozón, lásd: 59 ágazat\n- az eredeti (master) hanganyag elkészítése lemezekhez vagy egyéb audio-hanghordozókhoz, lásd: 59 ágazat\n- a nyomdai tevékenység, lásd: 18.11, 18.12\n- a felvett anyagok tömeges sokszorosítása, lásd: 18.20"
+  },
+  "59": {
+    "code": "59",
+    "title": "Film, videó gyártás, televízióműsor gyártása, hangfelvétel kiadás",
+    "codeAndTitle": "59 Film, videó gyártás, televízióműsor gyártása, hangfelvétel kiadás",
+    "description": "Ebbe az ágazatba tartozik a mozgókép gyártása filmszínházi és nem filmszínházi célra filmen, videoszalagon, DVD-én vagy más jelhordozón közvetlen filmszínházi vetítésre vagy televíziós műsorhoz; továbbá az e tevékenységeket elősegítő szolgáltatások, mint szerkesztés, vágás, másolatok készítése stb.; a mozgókép terjesztése, más ágazatok számára és mozgókép vagy egyéb film vetítése. Ebbe az ágazatba tartozik a film és egyéb képhordozó terjesztési jogainak adásvétele is.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a hangfelvétel készítése, így az eredeti (master-) hangfelvétel elkészítése, megjelentetése, promóciója, és terjesztése\n- a zenemű kiadása, valamint a hangfelvétel készítése stúdióban vagy egyéb helyszínen"
+  },
+  "60": {
+    "code": "60",
+    "title": "Műsorösszeállítás, műsorszolgáltatás",
+    "codeAndTitle": "60 Műsorösszeállítás, műsorszolgáltatás",
+    "description": "Ebbe az ágazatba tartozik a tartalom elkészítése vagy a tartalom elosztási jogának megszerzése, s azt követően e tartalom sugárzása; ilyen a rádió-, televízióműsor és szórakoztatáshoz kapcsolódó adatprogram, a hírműsor, beszélgetős műsor stb. Idetartozik az olyan adatszórás is, amely jellemzően a rádió- vagy televízióműsor szórásához kapcsolódik. A műsorszórás különböző technológiákat alkalmazva történhet, a légkörben, műhold, kábelhálózat vagy internet közvetítésével.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a tipikusan keskeny sávon (például: kábelen) közvetített egy területre szakosodó programok készítése is, például hírműsor, sportműsor, oktatási és ifjúsági műsor díjazásos vagy szerződéses alapon harmadik fél részére, aki később a nagyközönség felé sugározza",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a kábeles és más előfizetéses műsor-összeállítás terjesztése, lásd: 61 ágazat"
+  },
+  "61": {
+    "code": "61",
+    "title": "Távközlés",
+    "codeAndTitle": "61 Távközlés",
+    "description": "Ez az ágazat tartalmazza a távközlést (telekommunikációt) és az ehhez kapcsolódó tevékenységeket, amelyek révén beszéd, adat, szöveg, hang- és videojel továbbítható. Ezt olyan távközlő berendezésekkel végezhetik, amelyek egy technológiát alkalmaznak, vagy többfélét kombinálnak. Az ágazatba tartozó tevékenységek közös vonása, hogy a tartalom továbbítását a nélkül végzik, hogy annak létrehozásában részt vennének. Az ágazaton belüli csoportosítás alapja a működtetett infrastruktúra.\n\nA televíziójel továbbítása esetén a távközlés magában foglalhatja teljes csatornák műsorszerkezetének összekapcsolását (a 60 ágazatban gyártott) programcsomagokba terjesztés céljából."
+  },
+  "62": {
+    "code": "62",
+    "title": "Információ-technológiai szolgáltatás",
+    "codeAndTitle": "62 Információ-technológiai szolgáltatás",
+    "description": "Ebbe az ágazatba tartozik az információtechnológiai területen nyújtandó szakértői tevékenység: szoftver írása, módosítása, tesztelése és ezek támogató szolgáltatása; a számítógéphardvert, -szoftvert és kommunikációs technológiát integráló számítógépes rendszerek tervezése; kihelyezett számítógépes rendszer és/vagy adatfeldolgozási rendszer üzemeltetése (az ügyfél helyszínén) és egyéb számítógéppel kapcsolatos szakértői vagy technikusi tevékenység."
+  },
+  "63": {
+    "code": "63",
+    "title": "Információs szolgáltatás",
+    "codeAndTitle": "63 Információs szolgáltatás",
+    "description": "Ebbe az ágazatba tartoznak a web-es kereső portál szolgáltatások (web searching), adatfeldolgozási és hálózati tárhelyet biztosító (webhosting) szolgáltatások, valamint az elsődlegesen információszolgáltató egyéb tevékenységek."
+  },
+  "64": {
+    "code": "64",
+    "title": "Pénzügyi közvetítés, kivéve: biztosítási, nyugdíjpénztári tevékenység",
+    "codeAndTitle": "64 Pénzügyi közvetítés, kivéve: biztosítási, nyugdíjpénztári tevékenység",
+    "description": "Ebbe az ágazatba tartozik a pénzforrások gyűjtése és újraelosztása, kivéve azokat, amelyek a biztosítást, a nyugdíjalapokat és a kötelező társadalombiztosítást szolgálják.\n\nMegjegyzés: ebben az ágazatban a nemzeti intézmények rendelkezéseinek valószínűleg meghatározó szerepük van az osztályozás ezen területén."
+  },
+  "65": {
+    "code": "65",
+    "title": "Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás)",
+    "codeAndTitle": "65 Biztosítás, viszontbiztosítás, nyugdíjalapok (kivéve: kötelező társadalombiztosítás)",
+    "description": "Ez az ágazat tartalmazza a járadék és egyéb biztosítási szerződések megkötését, biztosítási díjak befektetését pénzügyi eszközökbe, a jövőbeni károk fedezetéül szolgáló portfólió létrehozása céljából. Idetartozik a direktbiztosítási és viszontbiztosítási tartalékképzés is."
+  },
+  "66": {
+    "code": "66",
+    "title": "Egyéb pénzügyi tevékenység",
+    "codeAndTitle": "66 Egyéb pénzügyi tevékenység",
+    "description": "Ebbe az ágazatba tartozik a pénzintézetek tevékenységéhez szorosan kapcsolódó szolgáltatások nyújtása, amelyeket nem maguk a pénzintézetek teljesítenek. Az elsődleges bontás ebben az ágazatban a pénzügyi tranzakció vagy nyújtott finanszírozás típusa szerint történik."
+  },
+  "68": {
+    "code": "68",
+    "title": "Ingatlanügyletek",
+    "codeAndTitle": "68 Ingatlanügyletek"
+  },
+  "69": {
+    "code": "69",
+    "title": "Jogi, számviteli, adószakértői tevékenység",
+    "codeAndTitle": "69 Jogi, számviteli, adószakértői tevékenység",
+    "description": "Ez az ágazat magában foglalja az egyik fél érdekének egy másik féllel szembeni jogi képviseletét és védelmét, akár bíróság vagy más jogi szerv előtt, akár egyéb jogi eljárásban olyan személy által, vagy olyan személyek felügyelete alatt, aki(k) tagja(i) az érintett szakmai kamarának. Ilyen tevékenység pl. a tanácsadás és képviselet polgári ügyekben, büntető ügyekben vagy munkajogi vitákkal kapcsolatban.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a jogi dokumentumok elkészítését, mint pl. a cégbejegyzéssel, társasági szerződéssel, cégalapítással, szabadalmi és szerzői jogokkal kapcsolatos jogi dokumentumok, illetve közokirat, végrendelet, letéti szerződés stb. elkészítését csakúgy, mint a közjegyzői, bírósági végrehajtói, választott-, vizsgáló- és döntőbírói tevékenységet\n- a könyvviteli és egyéb számviteli szolgáltatás, mint pl. számviteli beszámolók, nyilvántartások hitelesítése, pénzügyi mérleg készítése, könyvelés"
+  },
+  "70": {
+    "code": "70",
+    "title": "Üzletvezetési, vezetői tanácsadás",
+    "codeAndTitle": "70 Üzletvezetési, vezetői tanácsadás",
+    "description": "Ez az ágazat magában foglalja az üzleti vállalkozások és egyéb szervezetek számára nyújtott tanácsadást és segítségnyújtást a vezetést érintő kérdésekben, mint pl. stratégiai és szervezeti tervezés, pénzügyi tervezés és költségvetés-készítés, marketingpolitika, humánerőforrás-politika kialakítása, gyakorlati alkalmazása és tervezése, termelésütemezési program és belső ellenőrzés tervezése.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az ugyanazon gazdasági szervezet gazdasági egységei feletti felügyeleti és irányító tevékenység, pl. üzletvezetési, irányítási központi iroda"
+  },
+  "71": {
+    "code": "71",
+    "title": "Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés",
+    "codeAndTitle": "71 Mérnöki és építészmérnöki tevékenység; műszaki vizsgálat, elemzés",
+    "description": "Ebbe az ágazatba tartozik az építészmérnöki, mérnöki szolgáltatás, építészeti tervezés, építésvezetés, földmérés és térképészeti szolgáltatás.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a fizikai-, vegyi-, és egyéb analitikai vizsgálattal kapcsolatos szolgáltatás"
+  },
+  "72": {
+    "code": "72",
+    "title": "Tudományos kutatás, fejlesztés",
+    "codeAndTitle": "72 Tudományos kutatás, fejlesztés",
+    "description": "Ebbe az ágazatba tartozik a tudományos kutatás és fejlesztés három típusa: 1) Alapkutatás: kísérleti vagy elméleti kutatás, amelynek elsődleges célja új ismeretek szerzése a jelenségek és a megfigyelhető valóság alapjául szolgáló dolgokról, a felhasználás vagy alkalmazás szándéka nélkül. 2) Alkalmazott kutatás: új ismeretek megszerzése céljából végzett eredeti kutatómunka, amely elsődlegesen sajátos gyakorlati célok, problémák megoldására irányul. 3) Kísérleti fejlesztés: szisztematikus tevékenység, amely a korábbi kutatásból és/vagy a gyakorlati tapasztalatokból nyert meglévő ismereteken alapul, és új anyagok, termékek és eszközök előállítására, új eljárások, módszerek és szolgáltatások bevezetésére, illetve a már előállítottak vagy bevezetettek lényeges tökéletesítésére irányul.\n\nAz ágazatba tartozó kutatási-fejlesztési tevékenység két kategóriára osztható: természettudományi és műszaki kutatás-fejlesztés; társadalomtudományi és humán kutatás-fejlesztés.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a piackutatás, lásd: 73.20"
+  },
+  "73": {
+    "code": "73",
+    "title": "Reklám, piackutatás",
+    "codeAndTitle": "73 Reklám, piackutatás",
+    "description": "Ebbe az ágazatba tartozik a hirdetési kampány tervezése és megvalósítása, így pl. hirdetések elhelyezése folyóiratban, újságban, rádióban, televízióban és egyéb médiában, illetve megjelenítési struktúrák és bemutatóhelyek tervezése."
+  },
+  "74": {
+    "code": "74",
+    "title": "Egyéb szakmai, tudományos, műszaki tevékenység",
+    "codeAndTitle": "74 Egyéb szakmai, tudományos, műszaki tevékenység",
+    "description": "Ebbe az ágazatba tartoznak a szakmai, tudományos és műszaki szolgáltatások (kivéve: jogi és számviteli szolgáltatás, építészmérnöki és mérnöki tevékenység, műszaki vizsgálat és elemzés üzletviteli és vezetői tanácsadás, kutatás-fejlesztés és hirdetés)."
+  },
+  "75": {
+    "code": "75",
+    "title": "Állat-egészségügyi ellátás",
+    "codeAndTitle": "75 Állat-egészségügyi ellátás",
+    "description": "Ebbe az ágazatba tartozik a mezőgazdasági haszonállatokkal, illetve hobbiállatokkal és egyéb (pl. állatkerti) állatokkal kapcsolatos állatgyógyászati és betegségmegelőző tevékenység. Ezeket a tevékenységeket képzett állatorvosok végezhetik állatkórházban, az állattartás helyszínén vagy otthon, saját rendelőben vagy bárhol.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az állatok mentőszállítása"
+  },
+  "77": {
+    "code": "77",
+    "title": "Kölcsönzés, operatív lízing",
+    "codeAndTitle": "77 Kölcsönzés, operatív lízing",
+    "description": "Ebbe az ágazatba tartozik az ingó eszközök, tárgyi eszközök széles köre - járművek, számítógépek, fogyasztási javak, ipari gépek és berendezések - bérbeadása és kölcsönzése, operatív lízingje a felhasználónak rendszeresen fizetendő kölcsönzési- vagy lízingdíj ellenében. A következő csoportok tartoznak ide:\n(1) gépjárműkölcsönzés, \n(2) szabadidős és sporteszközök, személyes és háztartási cikkek kölcsönzése, beleértve az egyéb szállító eszközöket, \n(3) immateriális javak kölcsönzése, lízingje. \nCsak az operatív lízing sorolható ide.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a pénzügyi lízing, lásd: 64.91\n- az ingatlan bérbeadása, lásd: L nemzetgazdasági ág\n- a gépek, berendezések kezelővel együttes bérbeadása, lásd a tevékenység jellegének megfelelő nemzetgazdasági ágat pl. építőipar (F), közlekedés (H)"
+  },
+  "78": {
+    "code": "78",
+    "title": "Munkaerőpiaci szolgáltatás",
+    "codeAndTitle": "78 Munkaerőpiaci szolgáltatás",
+    "description": "Ebbe az ágazatba tartoznak a betöltendő állások nyilvántartásával, az álláskínálatok listázásával, valamint az álláskeresők irányításával vagy elhelyezésével összefüggő tevékenységek végzése díjazásos vagy szerződéses alapon, amennyiben a tájékoztatott és elhelyezett egyének nem alkalmazottai a munkaközvetítő irodának.\n\nEbbe az ágazatba tartozik:\n- a vezetők felkutatása és elhelyezése\n- a színházi, színpadi szereposztó tevékenység",
+    "inThisCategoryMore": "Ebbe az ágazatba tartozik - magyar kiegészítés:\n- a munkaerő határozott időre szóló rendelkezésre bocsátása üzleti vállalkozás számára, hogy kiegészítse az ügyfél munkaerőforrását, továbbá a humánerőforrás-gazdálkodással összefüggő egyéb szolgáltatás",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- az egyéni művészek közvetítése, lásd: 74.90"
+  },
+  "79": {
+    "code": "79",
+    "title": "Utazásközvetítés, utazásszervezés, egyéb foglalás",
+    "codeAndTitle": "79 Utazásközvetítés, utazásszervezés, egyéb foglalás",
+    "description": "Ebbe az ágazatba tartozik az utazási ügynökségek tevékenysége, amelyek elsősorban út, utazás, szállítás, szálláshely stb. értékesítésében közreműködnek a nagyközönség és üzleti ügyfelek számára, valamint utak szervezése és összeállítása, amelyet utazásközvetítők vagy közvetlenül az utazásszervezők értékesítenek. Idetartoznak az utazással összefüggő egyéb szolgáltatások, beleértve a foglalást is.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az idegenvezetői tevékenység és az utazási promóció is"
+  },
+  "80": {
+    "code": "80",
+    "title": "Biztonsági, nyomozói tevékenység",
+    "codeAndTitle": "80 Biztonsági, nyomozói tevékenység",
+    "description": "Ezen ágazatba tartoznak a biztonsággal összefüggő tevékenységek, mint pl. bűnüldözés és nyomozás; őrzés és járőrözés, pénz, nyugta és egyéb értékcikk begyűjtése és szállítása, személyzetet és eszközöket biztosítva a szállítmány védelmére; elektronikus biztonsági riasztórendszerek működtetése, mint pl. betörés- és tűzriasztás, amikor a tevékenység ezen rendszerek távfelügyeletére irányul, de gyakran magában foglal eladást, telepítést és javító-karbantartó szolgáltatást is. Ha a fent említett tevékenységeket elkülönülten látják el, akkor nem ebbe a szakágazatba tartoznak, hanem a kiskereskedelembe, az építőiparba stb."
+  },
+  "81": {
+    "code": "81",
+    "title": "Építmény üzemeltetés, zöldterület-kezelés",
+    "codeAndTitle": "81 Építmény üzemeltetés, zöldterület-kezelés",
+    "description": "Ebbe az ágazatba tartozik az ügyfél létesítményein belül végzett számos fő- és kisegítő tevékenység kombinációjának végzése: valamennyi építmény külső, belső takarítása, ipari berendezések, vonatok, buszok, repülők stb. takarítása, belső utak, tengeri tankerek belső tisztítása, épületek, hajók, vonatok stb. fertőtlenítése és kártevőirtása, üvegtisztítás, utcaseprés, hó- és jégeltakarítás, tájgondozás, zöldterület-kezelés, parkosítás és a vele kapcsolatos fenntartási szolgáltatások, tájrendezési tervek kivitelezése, tájtervezési terv kivitelezése, és/vagy (gyalogutak, védőfalak, deszkázatok, kerítések, tavacskák és hasonló szerkezetek építése (telepítése) keretében nem elkülönülten végzett zöldterület létesítés, parkosítás.",
+    "inThisCategoryMore": "Ebbe az ágazatba tartozik - magyar kiegészítés:\nEzeket a tevékenységeket olyan személyzet végzi, aki nincs bevonva az üzletmenetbe, illetve nem felelős az ügyfél üzleti tevékenységéért.\nUgyancsak ezen ágazatba tartozik mindenfajta épület külső és belső takarítása, ipari gépek tisztítása, vonatok, buszok, repülőgépek stb. takarítása, szárazföldi és tengeri tartályok belső tisztítása."
+  },
+  "82": {
+    "code": "82",
+    "title": "Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás",
+    "codeAndTitle": "82 Adminisztratív-, kiegészítő egyéb üzleti szolgáltatás",
+    "description": "Ebbe az ágazatba tartozik a mások számára nyújtott mindennapi irodai adminisztratív szolgáltatások széles köre, csakúgy, mint a folyó rutin üzletvitelt segítő tevékenységek végzése díjazásért vagy szerződéses alapon.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az összes olyan üzletvitelt kiegészítő szolgáltatás, amelyet az osztályozás máshol nem tartalmaz",
+    "notInThisCategory": "A tevékenységet ellátó alkalmazottak nem a teljes üzletvitelt bonyolítják le."
+  },
+  "84": {
+    "code": "84",
+    "title": "Közigazgatás, védelem; kötelező társadalombiztosítás",
+    "codeAndTitle": "84 Közigazgatás, védelem; kötelező társadalombiztosítás"
+  },
+  "85": {
+    "code": "85",
+    "title": "Oktatás",
+    "codeAndTitle": "85 Oktatás"
+  },
+  "86": {
+    "code": "86",
+    "title": "Humán-egészségügyi ellátás",
+    "codeAndTitle": "86 Humán-egészségügyi ellátás",
+    "description": "Ebbe az ágazatba tartozik a rövid és hosszú távú kórházi ellátás, az általános kórházak és a szakkórházak, a sebészeti, a pszichiátriai és a drogfüggő betegek gyógyítására specializálódott kórházak, a szanatóriumok, betegségmegelőző intézmények, az egészségügyi ápolási intézmények, az pszichiátriai intézetek, a rehabilitációs központok, a leprakórházak és minden egyéb humán-egészségügyi intézmény tevékenysége, amely szállásnyújtással diagnosztikai és orvosi ellátást biztosít fekvőbetegeknek.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az általános orvosi és a szakorvosi tevékenység keretében a háziorvosok, a szakorvosok, pl. a sebészek által végzett szakorvosi konzultáció és gyógykezelés\n- az általános fogorvosi és a szakfogorvosi, pl. a fogszabályozási tevékenység\n- a kórházak és a praktizáló orvosok tevékenységén kívül az egészségügyi államigazgatási szerv által kiadott működési engedéllyel rendelkező szakdolgozók és természetgyógyászati ellátást nyújtók tevékenysége"
+  },
+  "87": {
+    "code": "87",
+    "title": "Bentlakásos, nem kórházi ápolás",
+    "codeAndTitle": "87 Bentlakásos, nem kórházi ápolás",
+    "description": "Ebbe az ágazatba tartozik a bentlakók igényei szerint ápolási, felügyeleti vagy egyéb típusú szolgáltatásokkal együtt nyújtott bentlakásos ellátás. Ezekben az intézményekben végzett munka jelentős része az egészségügyi és szociális szolgáltatások kombinációja, amelyben az egészségügyi szolgáltatás döntően ápolási tevékenység."
+  },
+  "88": {
+    "code": "88",
+    "title": "Szociális ellátás bentlakás nélkül",
+    "codeAndTitle": "88 Szociális ellátás bentlakás nélkül",
+    "description": "Ebbe az ágazatba a szociális segítségnyújtási szolgáltatások széles köre tartozik. Nem tartozik az ágazat tevékenységéhez a szállásnyújtás, kivéve az átmenetileg igénybe vehetőt."
+  },
+  "90": {
+    "code": "90",
+    "title": "Alkotó-, művészeti-, szórakoztató tevékenység",
+    "codeAndTitle": "90 Alkotó-, művészeti-, szórakoztató tevékenység",
+    "description": "Ebbe az ágazatba tartozik a kulturális és szórakozási igényeket kielégítő szolgáltatás, valamint az ilyen létesítmények működtetése. Az ágazat tartalmazza a nagyközönségnek szánt élő előadások, események, kiállítások, megrendezését, promócióját, bemutatását, az azokban való részvételt, továbbá a művészetet és az élő előadást elősegítő, kiegészítő művészeti, alkotói és szakmai tevékenységeket.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a valamennyi múzeumi, növény- és állatkerti tevékenység, történeti-, természetvédelmi területek megóvása, lásd: 91 ágazat\n- a szerencsejáték és fogadás, lásd: 92 ágazat\n- a sport, szórakozás és szabadidős tevékenység, lásd: 93 ágazat\n\nA kultúrával, szórakoztatással, illetve szabadidővel összefüggő néhány szolgáltatás más ágazatba tartozik, mint pl.\n- a film-, videogyártás és forgalmazás, lásd: 59.11, 59.12, 59.13\n- a mozgóképvetítés, lásd: 59.14\n- a rádió- és televízióműsor-szolgáltatás, lásd: 60.1, 60.2"
+  },
+  "91": {
+    "code": "91",
+    "title": "Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység",
+    "codeAndTitle": "91 Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység",
+    "description": "Ebbe az ágazatba tartozik a könyvtári és levéltári tevékenység; a mindenfajta múzeum, növény- és állatkert működtetése; a történelmi emlékhelyek; a természetvédelmi területek fenntartása.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- a történelmi, kulturális, vagy oktatási érdeklődésre számot tartó (pl. világörökség része stb.) tárgyak, helyek és természeti különlegességek megóvására, kiállítására irányuló tevékenység",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a sportot, szórakozást és szabadidős tevékenységeket szolgáló létesítmény üzemeltetése, mint például a strandok, szabadidőparkok, lásd: 93 ágazat"
+  },
+  "92": {
+    "code": "92",
+    "title": "Szerencsejáték, fogadás",
+    "codeAndTitle": "92 Szerencsejáték, fogadás",
+    "description": "Ebbe az ágazatba tartozik a szerencsejáték létesítmények, berendezések (mint kaszinó, bingóterem, videojáték-terminál) működtetése, valamint a szerencsejáték-szolgáltatások nyújtása, mint szerencsejáték szelvények (lottó, sorsjegy) értékesítése és fogadás a fogadóirodában."
+  },
+  "93": {
+    "code": "93",
+    "title": "Sport-, szórakoztató-, szabadidős tevékenység",
+    "codeAndTitle": "93 Sport-, szórakoztató-, szabadidős tevékenység",
+    "description": "Ebbe az ágazatba tartoznak a szabadidővel, szórakoztatással és sporttal kapcsolatos szolgáltatások (kivéve a múzeumi tevékenységet, történelmi hely megóvását; a növény- és állatkerti és természetvédelmi tevékenységet; a szerencsejátékot és fogadást).",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a színművészeti és zeneművészeti, valamint egyéb művészeti tevékenység és szórakoztatás, mint színházi, koncert, opera vagy táncművek és egyéb színpadi alkotások élő bemutatása, lásd: 90 ágazat"
+  },
+  "94": {
+    "code": "94",
+    "title": "Érdekképviselet",
+    "codeAndTitle": "94 Érdekképviselet",
+    "description": "Ez az ágazat tartalmazza a speciális csoportok érdekeinek a képviseletét vagy az ötletek, elképzelések pártolását a közvélemény felé. Az ezt végző szervezetek általában rendelkeznek a tagjaikból álló választótestülettel, tevékenységükbe esetleg más, nem tagokat is bevonhatnak, illetve tevékenységük mások javát is szolgálhatja. Ennek az ágazatnak az elsődleges alábontását az határozza meg, milyen célt szolgálnak, nevezetesen a munkaadók, az önálló alkalmazásban levők, a tudományos közösségek (94.1), illetve a foglalkoztatottak (94.2) érdekeit szolgálják, vagy vallási, politikai, oktatási illetve szabadidős törekvéseiket és tevékenységüket támogatják (94.9)."
+  },
+  "95": {
+    "code": "95",
+    "title": "Számítógép, személyi-, háztartási cikk javítása",
+    "codeAndTitle": "95 Számítógép, személyi-, háztartási cikk javítása",
+    "description": "Ebbe az ágazatba tartozik a számítógépek és perifériák, mint például az asztali és hordozható számítógépek, számítógép-terminálok, tárolóeszközök, nyomtatók javítása és karbantartása.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még a kommunikációs eszközök, mint például a faxkészülékek, rádió-adóvevők javítása és az elektronikai cikkek, mint például a rádió- és televíziókészülékek, a háztartási és kerti eszközök, mint például a fűnyírók, lombszívó és -fúvó berendezések, a lábbeli és egyéb bőráruk, a bútorok és lakberendezési tárgyak, a ruházat és a ruházati kellékek, a sportszerek, a hangszerek, a hobbicikkek, valamint az egyéb személyi és háztartási cikkek javítása.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- az orvosi és diagnosztikai képalkotó és képfeldolgozó eszközök, a mérőműszerek és terepfelvételi műszerek, a laboratóriumi műszerek és készülékek, a radar- és szonárberendezések javítása, lásd: 33.13"
+  },
+  "96": {
+    "code": "96",
+    "title": "Egyéb személyi szolgáltatás",
+    "codeAndTitle": "96 Egyéb személyi szolgáltatás",
+    "description": "Ebbe az ágazatba tartozik minden, az osztályozásban máshol nem szereplő szolgáltatás. Idetartoznak például az olyan szolgáltatástípusok, mint a textil és szőrme mosása és (vegy-)tisztítása, a fodrászat és szépségápolás, valamint a temetkezés és a temetkezést kiegészítő szolgáltatások."
+  },
+  "97": {
+    "code": "97",
+    "title": "Háztartási alkalmazottat foglalkoztató magánháztartás",
+    "codeAndTitle": "97 Háztartási alkalmazottat foglalkoztató magánháztartás"
+  },
+  "98": {
+    "code": "98",
+    "title": "Háztartás termék-előállítása, szolgáltatása saját fogyasztásra",
+    "codeAndTitle": "98 Háztartás termék-előállítása, szolgáltatása saját fogyasztásra",
+    "description": "Ez az ágazat tartalmazza a háztartások által végzett, önellátásukhoz, létfenntartásukhoz szükséges termék előállítását és szolgáltatás nyújtását.\n\nCsak abban az esetben sorolható ide a háztartás által végzett tevékenység, amennyiben lehetetlen meghatározni a háztartás elsődleges létfenntartó, önellátó tevékenységét. Abban az esetben, ha a háztartás üzleti tevékenységeket folytat, akkor a fő üzleti tevékenysége szerint kell osztályozni."
+  },
+  "99": {
+    "code": "99",
+    "title": "Területen kívüli szervezet",
+    "codeAndTitle": "99 Területen kívüli szervezet"
+  },
+  "A": {
+    "code": "A",
+    "title": "MEZŐGAZDASÁG, ERDŐGAZDÁLKODÁS, HALÁSZAT",
+    "codeAndTitle": "A MEZŐGAZDASÁG, ERDŐGAZDÁLKODÁS, HALÁSZAT",
+    "description": "Ez a nemzetgazdasági ág tartalmazza a növénytermesztést és az állattenyésztést. A gazdasági ágba tartoznak a növénytermesztéssel, állattenyésztéssel, erdőgazdálkodással kapcsolatos tevékenységek, valamint a gazdaságban nevelt vagy a természetes környezetben élő állatokkal kapcsolatos állattenyésztési, vadgazdálkodási tevékenységek.\n\nLásd még: C (Feldolgozóipar) nemzetgazdasági ág"
+  },
+  "01": {
+    "code": "01",
+    "title": "Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások",
+    "codeAndTitle": "01 Növénytermesztés, állattenyésztés, vadgazdálkodás és kapcsolódó szolgáltatások",
+    "description": "Ez az ágazat két alapvető tevékenységet különböztet meg: a növényi eredetű és az állati eredetű termékek előállítását. Az ágazat magában foglalja a biogazdálkodást, valamint a genetikailag módosított növények termesztését, illetve a genetikailag módosított állatok tenyésztését is. Ez az ágazat magában foglalja a szabadtéri és a melegházi növénytermesztést is.\n\nA 01.5 Vegyes gazdálkodás alágazat nem követi az általános alapelveket a főtevékenység meghatározásánál. Figyelembe veszi, hogy számos mezőgazdasági termelőegységnél a növénytermesztés, illetve az állattenyésztés egyenlő súlyt képvisel, így csak önkényesen lehetne ezen gazdaságokat valamely kategóriába besorolni.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még:\n- a mezőgazdasághoz, vadgazdálkodáshoz kapcsolódó szolgáltatások",
+    "notInThisCategory": "A mezőgazdasági tevékenységek nem tartalmazzák a mezőgazdasági termékekkel kapcsolatos feldolgozási eljárásokat (amelyeket a 10. és 11. Élelmiszerek, illetve italok gyártása ágazatok, valamint a 12 Dohánytermékek gyártása ágazat tartalmaz), mind amellett a mezőgazdasági termékeket az elsődleges piacra elő kell készíteni. Így idetartozik a növények ún. előkészítése elsődleges piacra, beleértve a nyersanyagpiacot is.\n\nAz ágazat nem tartalmazza a termőterület építőipari jellegű kialakítási földmunkáit (pl. meredek dőlésű területeken teraszok kialakítása, vízelvezetés, rizsföldek előkészítése), melyek az F (Építőipar) nemzetgazdasági ágba tartoznak, és nem tartalmazza azon felvásárló, illetve forgalmazó szövetkezeti tevékenységeket sem, amelyek a mezőgazdasági termékek értékesítésével kapcsolatosak. Ezek a piaci, kereskedelmi tevékenységek a G (Kereskedelem, gépjárműjavítás) nemzetgazdasági ágba tartoznak.\n\nNem ebbe az ágazatba tartozik:\n- a tájvédelemmel, -fenntartással, parkosítással kapcsolatos tevékenységek, lásd: 81.30"
+  },
+  "01.1": {
+    "code": "01.1",
+    "title": "Nem évelő növény termesztése",
+    "codeAndTitle": "01.1 Nem évelő növény termesztése",
+    "description": "Ez az alágazat azoknak a nem évelő növényeknek a termesztését tartalmazza, amelyek élettartama nem haladja meg a két termesztési ciklust. Idetartozik ezen növények vetőmag előállítás céljára ültetett termesztése is."
+  },
+  "01.2": {
+    "code": "01.2",
+    "title": "Évelő növény termesztése",
+    "codeAndTitle": "01.2 Évelő növény termesztése",
+    "description": "Ez az alágazat tartalmazza azoknak az évelő növényeknek (fásszárú és évenként megújuló, lágyszárú növények) a termesztését, amelyek élettartama meghaladja a két termesztési ciklust. Idetartozik ezen növények vetőmag előállítási céllal ültetett növényeinek termesztése is."
+  },
+  "01.3": {
+    "code": "01.3",
+    "title": "Növényi szaporítóanyag termesztése",
+    "codeAndTitle": "01.3 Növényi szaporítóanyag termesztése"
+  },
+  "01.4": {
+    "code": "01.4",
+    "title": "Állattenyésztés",
+    "codeAndTitle": "01.4 Állattenyésztés",
+    "description": "Ez az alágazat tartalmazza az összes állatfaj tenyésztését, kivéve a tengeri állatokat.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a gazdasági haszonállatok etetése, gondozása, lásd: 01.62\n- a vágóhidakon a vágás feldolgozás során nyert melléktermékek pl. nyersbőr, irha, nyírt gyapjú gyártása, lásd: 10.11"
+  },
+  "01.5": {
+    "code": "01.5",
+    "title": "Vegyes gazdálkodás",
+    "codeAndTitle": "01.5 Vegyes gazdálkodás"
+  },
+  "01.6": {
+    "code": "01.6",
+    "title": "Mezőgazdasági-, betakarítást követő szolgáltatás",
+    "codeAndTitle": "01.6 Mezőgazdasági-, betakarítást követő szolgáltatás",
+    "description": "Ez az alágazat tartalmazza az olyan díjazásért vagy megbízásos alapon végzett tevékenységeket, amelyek a mezőgazdasági termesztéssel, illetve a nem termesztési célú mezőgazdasági tevékenységekkel kapcsolatosak (pl. mezőgazdasági termékek betakarítása).",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a betakarítás utáni tevékenységek, amelyek a mezőgazdasági termékek előkészítését célozzák az elsődleges piacra, beleértve a nyersanyagpiacot is"
+  },
+  "01.7": {
+    "code": "01.7",
+    "title": "Vadgazdálkodás, vadgazdálkodási szolgáltatás",
+    "codeAndTitle": "01.7 Vadgazdálkodás, vadgazdálkodási szolgáltatás"
+  },
+  "02": {
+    "code": "02",
+    "title": "Erdőgazdálkodás",
+    "codeAndTitle": "02 Erdőgazdálkodás",
+    "description": "Ez az ágazat magában foglalja a fafeldolgozáshoz szükséges hengeres fa előállítását, valamint az erdőben vadon termő, egyéb növényi termékek kinyerését, gyűjtését. A fakitermelésen kívül az erdőgazdálkodási tevékenység olyan terméket is eredményezhet, ami kismértékű feldolgozási folyamat eredménye pl. tűzifa, faszén, feldolgozatlan rönkfa (pl. támasz, oszlop). Ezeket a tevékenységeket a természetes és az ültetett erdőkben egyaránt lehet végezni.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a fa további megmunkálása pl. fűrészelés, lásd: 16 ágazat"
+  },
+  "02.1": {
+    "code": "02.1",
+    "title": "Erdészeti, egyéb erdőgazdálkodási tevékenység",
+    "codeAndTitle": "02.1 Erdészeti, egyéb erdőgazdálkodási tevékenység"
+  },
+  "02.2": {
+    "code": "02.2",
+    "title": "Fakitermelés",
+    "codeAndTitle": "02.2 Fakitermelés"
+  },
+  "02.3": {
+    "code": "02.3",
+    "title": "Vadon termő egyéb erdei termék gyűjtése",
+    "codeAndTitle": "02.3 Vadon termő egyéb erdei termék gyűjtése"
+  },
+  "02.4": {
+    "code": "02.4",
+    "title": "Erdészeti szolgáltatás",
+    "codeAndTitle": "02.4 Erdészeti szolgáltatás"
+  },
+  "03": {
+    "code": "03",
+    "title": "Halászat, halgazdálkodás",
+    "codeAndTitle": "03 Halászat, halgazdálkodás",
+    "description": "Ez az ágazat tartalmazza a halászati és halgazdálkodási tevékenységeket, beleértve a tengeri, part menti és belvízi élőhelyek halászati termékeinek (hal, rák, vízi növény, illetve természetes gyöngy, szivacs egyéb tengeri termék) halászatát vagy gyűjtését.",
+    "inThisCategory": "Ebbe az ágazatba tartoznak még:\n- azok a tevékenységek is, melyek általában a saját számlás termelés részét képezik (pl. gyöngytermelési célú osztrigatenyésztés). A tengeri vagy belvízi halászati vagy halgazdálkodási szolgáltatások a megfelelő halászati vagy halgazdálkodási tevékenységhez tartoznak.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a hajóépítés és -javítás, lásd: 30.1, 33.15\n- a sport-, illetve szabadidős halászat, horgászat, lásd: 93.19\n- a hal-, rákfeldolgozás szárazföldi vagy hajón működő feldolgozóüzemben, lásd: 10.20"
+  },
+  "03.1": {
+    "code": "03.1",
+    "title": "Halászat",
+    "codeAndTitle": "03.1 Halászat",
+    "description": "Ez az alágazat tartalmazza a vadon élő vízi élőlények (főleg halak, rákok, puhatestűek, de beleértve a vízi növényeket is), elfogását célzó halászati tevékenységeket (pl. vadászat, fogás, begyűjtés,). Ezek az élőlények származhatnak óceáni, part menti, belvízi környezetből, az elfogásuk történhet kézzel, vagy bármely halászati eszközzel (pl. halászhálók, különféle csapdák), a rendeltetésük emberi fogyasztás, vagy egyéb célok. Ezen tevékenységek végezhetők az óceánon, a partmenti és belvizeken (pl. kagylók, osztrigák gyűjtése), hálóval, vagy vízi járműről. A vízi jármű házilag is készülhet, de többnyire kereskedelmi forgalomból származik. A halászati tevékenységek magukban foglalják az újratelepített vizekben végzett halászati tevékenységeket is."
+  },
+  "03.2": {
+    "code": "03.2",
+    "title": "Halgazdálkodás",
+    "codeAndTitle": "03.2 Halgazdálkodás",
+    "description": "Ez az alágazat tartalmazza a halgazdálkodási tevékenységeket, azt a termelési folyamatot, amely magában foglalja a vízi élőlények (halak, rákok, puhatestűek, növények, krokodilok, alligátorok, kétéltűek) tenyésztését, beleértve a begyűjtésüket is, valamint olyan technológiák használatát, amelyekkel növelni lehet az ebbe a kategóriába tartozó vízi állatok termelését, illetve a környezet természetes kapacitását (pl. rendszeres állomány-utánpótlás, etetés, ragadozók elleni védelem).",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- az ivadék- és felnőtt állomány tenyésztése mesterséges körülmények között \n\nA halgazdálkodási tevékenységet (beleértve a tenyésztéstől a termékek begyűjtéséig) bármilyen szervezeti keretek között lehet végezni, pl. egyéni vagy, üzleti vagy, állami tulajdonú szervezetekben."
+  },
+  "B": {
+    "code": "B",
+    "title": "BÁNYÁSZAT, KŐFEJTÉS",
+    "codeAndTitle": "B BÁNYÁSZAT, KŐFEJTÉS",
+    "description": "A bányászat és kőfejtés nemzetgazdasági ág tartalmazza a természetben előforduló ásványok kitermelését beleértve a szilárd ásványokat (szén és ércek), a folyékony ásványokat (kőolaj) és a gázokat (földgáz). A kitermelést különböző módszerekkel végzik, mint pl. mélyművelés, külszíni fejtés, kőolaj- és földgázkutak üzemeltetése, a tengerfenéken végzett bányászat.\n\nEz a nemzetgazdasági ág tartalmazza a kiegészítő, a nyersanyag piacképessé tételét célzó előkészítő tevékenységeket pl. törés, őrlés, tisztítás, szárítás, válogatás, ércdúsítás, földgáz cseppfolyósítása és szilárd tüzelőanyagok tömörítése. Ezeket a tevékenységeket gyakran azok a gazdasági egységek végzik, amelyek az erőforrást kitermelik és/vagy olyanok, amelyek telepe a kitermelés közelében van.\n\nA bányászati tevékenység a kitermelt fontosabb ásványok szerint ágazatokba, alágazatokba és szakágazatokba sorolható. A 05 és a 06 ágazat tartalmazza a fosszilis tüzelőanyagok (szén, lignit, kőolaj, földgáz) bányászatát. A 07 és a 08 ágazat tartalmazza a fémércek, különböző ásványok és a kőfejtés termékeinek bányászatát.\n\nAz ebbe a nemzetgazdasági ágba tartozó néhány technikai tevékenységet (különösen a szénhidrogén-kitermeléshez kapcsolódóan) erre szakosodott gazdasági szervezetek végezhetnek harmadik fél részére ipari szolgáltatásként. Az ilyen szolgáltatás a 09 ágazatba tartozik.",
+    "notInThisSector": "Nem ebbe a nemzetgazdasági ágba tartozik:\n- a kitermelt nyersanyag feldolgozása, lásd: C (Feldolgozóipar) nemzetgazdasági ág\n- a kitermelt nyersanyag további átalakítás nélküli felhasználása építőipari célokra, lásd: F (Építőipar) nemzetgazdasági ág\n- a természetes forrás- és ásványvíz palackozása a forrásnál vagy kútnál, lásd: 11.07\n- bizonyos talajfajta, ásvány és kő zúzása, őrlése vagy egyéb kezelése, ami nincs összefüggésben a bányászati és kőfejtési tevékenységgel, lásd: 23.9"
+  },
+  "05": {
+    "code": "05",
+    "title": "Szénbányászat",
+    "codeAndTitle": "05 Szénbányászat",
+    "description": "A szilárd ásványi anyagok kitermeléséhez tartozik az a földfelszín alatti vagy külszíni bányászat és egyéb tevékenység (pl. osztályozás, tisztítás, tömörítés és a szállításhoz szükséges egyéb művelet), amely piacképes terméket eredményez.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a kokszgyártás, lásd: 19.10\n- a feketeszén-, barnaszén- vagy lignitbányászathoz kapcsolódó szolgáltatás, lásd: 09.90\n- a brikettgyártás, lásd: 19.20"
+  },
+  "05.1": {
+    "code": "05.1",
+    "title": "Feketeszén-bányászat",
+    "codeAndTitle": "05.1 Feketeszén-bányászat"
+  },
+  "05.2": {
+    "code": "05.2",
+    "title": "Barnaszén-, lignitbányászat",
+    "codeAndTitle": "05.2 Barnaszén-, lignitbányászat"
+  },
+  "06": {
+    "code": "06",
+    "title": "Kőolaj-, földgázkitermelés",
+    "codeAndTitle": "06 Kőolaj-, földgázkitermelés",
+    "description": "Ebbe az ágazatba tartozik a kőolaj bányászata, az olajpala és az olajhomok kitermelése és azokból kőolaj kinyerése, a földgáz kitermelése és folyékony szénhidrogénekké alakítása. Ebbe az ágazatba tartoznak a kőolaj- és földgázmezőkön található létesítmények működtetésével és fejlesztésével kapcsolatos tevékenységek, például a fúrás, a kutak elkészítése, berendezéseinek felszerelése, az anyagfajtákat szétválasztó (szeparátor) berendezés működtetése, emulzió bontása, sótalanítás, a nyers kőolaj összegyűjtése olajmezőkön, és minden egyéb olyan tevékenység, amely a kőolaj és a földgáz előkészítésére irányul a kitermelési helytől a szállítás kezdőpontjáig.",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a kőolaj- és földgázmezőkön díjazásért vagy szerződéses alapon végzett szolgáltatás, lásd: 09.10\n- a kőolaj- és földgázkutak feltárása, lásd: 09.10\n- a próbafúrás, lásd: 09.10\n- a kőolaj-feldolgozás, lásd: 19.20\n- a geofizikai-, geológiai és szeizmikus felmérés, lásd: 71.12"
+  },
+  "06.1": {
+    "code": "06.1",
+    "title": "Kőolaj-kitermelés",
+    "codeAndTitle": "06.1 Kőolaj-kitermelés"
+  },
+  "06.2": {
+    "code": "06.2",
+    "title": "Földgázkitermelés",
+    "codeAndTitle": "06.2 Földgázkitermelés"
+  },
+  "07": {
+    "code": "07",
+    "title": "Fémtartalmú érc bányászata",
+    "codeAndTitle": "07 Fémtartalmú érc bányászata",
+    "description": "Ebbe az ágazatba tartozik a fémtartalmú ércek bányászata mélyműveléssel, külszíni fejtéssel, tengerfenéken végezve stb.",
+    "inThisCategory": "Ebbe az ágazatba tartozik még:\n- az ércek dúsítása és előkészítése, mint az aprítás, őrlés, mosás, szárítás, zsugorítás, kalcinálás és lúgozás, az ércek fajsúly szerinti osztályozása vagy flotálása",
+    "notInThisCategory": "Nem ebbe az ágazatba tartozik:\n- a vasércpiritek pörkölése, lásd: 20.13\n- az alumínium-oxid gyártása, lásd: 24.42\n- a nagyolvasztó működtetése, lásd: 24 ágazat"
+  },
+  "07.1": {
+    "code": "07.1",
+    "title": "Vasércbányászat",
+    "codeAndTitle": "07.1 Vasércbányászat"
+  },
+  "07.2": {
+    "code": "07.2",
+    "title": "Egyéb fém érc bányászata",
+    "codeAndTitle": "07.2 Egyéb fém érc bányászata",
+    "description": "Ebbe az alágazatba tartozik a nemvas fémek érceinek bányászata."
+  },
+  "08": {
+    "code": "08",
+    "title": "Egyéb bányászat",
+    "codeAndTitle": "08 Egyéb bányászat",
+    "description": "Ez az ágazat tartalmazza a bányászati kitermelést és a kőfejtést, továbbá a hordalékos lerakódások iszapolását, a szikla zúzását és a sómocsarak hasznosítását is. Az ágazat termékeit főként építkezéseken (pl. homok, kő), egyéb anyagok gyártásánál (pl. agyag, gipsz, kalcium), a vegyi anyagok feldolgozásánál stb. hasznosítják.",
+    "notInThisCategory": "Az ágazat nem tartalmazza a kitermelt ásványok feldolgozását (kivéve a törést, az őrlést, vágást, a tisztítást, a szárítást, a válogatást és a keverést)."
+  },
+  "08.1": {
+    "code": "08.1",
+    "title": "Kőfejtés, homok-, agyagbányászat",
+    "codeAndTitle": "08.1 Kőfejtés, homok-, agyagbányászat"
+  },
+  "08.9": {
+    "code": "08.9",
+    "title": "M.n.s. bányászat",
+    "codeAndTitle": "08.9 M.n.s. bányászat"
+  },
+  "09": {
+    "code": "09",
+    "title": "Bányászati szolgáltatás",
+    "codeAndTitle": "09 Bányászati szolgáltatás",
+    "description": "Ebbe az ágazatba tartoznak azok a bányászathoz kapcsolódó szolgáltatások, amelyeket elkülönülten, díjazásért vagy szerződéses alapon végeznek. Idetartoznak a feltáró szolgál-tatások, mint a hagyományos feltárási módszerek (például fúrómag mintavételek, geológiai feltárások) és a fúrás, a próbafúrás, az utánfúrás a kőolajkutaknál, a fémtartalmú, illetve nemfémtartalmú ásványok lelőhelyein. Egyéb jellegzetes szolgáltatás a kőolaj- és földgázkutak építéséhez az alapozás, a cementezett részeik zsaluzásos kivitelezése, e kutak és a fúrólyukak tisztítása és vízmentesítése, a bányák kiszárítása és szivattyúzása, a meddő fedőréteg eltávolítása a bányákról stb."
+  },
+  "09.1": {
+    "code": "09.1",
+    "title": "Kőolaj-, földgáz-kitermelési szolgáltatás",
+    "codeAndTitle": "09.1 Kőolaj-, földgáz-kitermelési szolgáltatás"
+  },
+  "09.9": {
+    "code": "09.9",
+    "title": "Egyéb bányászati szolgáltatás",
+    "codeAndTitle": "09.9 Egyéb bányászati szolgáltatás"
+  },
+  "C": {
+    "code": "C",
+    "title": "FELDOLGOZÓIPAR",
+    "codeAndTitle": "C FELDOLGOZÓIPAR",
+    "description": "A feldolgozóipar tartalmazza az alapanyagok, alkatrészek fizikai vagy kémiai átalakítását új termékké, azonban nem ez az egyetlen, általános ismérv a feldolgozóipar meghatározására (lásd: a hulladékfeldolgozás lentebbi megjegyzését). Az átalakítandó alapanyagok, alkatrészek a mezőgazdaság, az erdőgazdálkodás, a halgazdálkodás, a bányászat és a kőfejtés, továbbá más feldolgozóipari tevékenységek termékei. A termékek lényeges átalakítása, felújítása és helyreállítása általában feldolgozóipari tevékenységnek minősül. \n\nA feldolgozóiparhoz tartozó gazdasági egységek általában üzemek, gyárak, amelyek jellemzően erőgépeket és anyagmozgató berendezéseket használnak. Ebbe a nemzetgazdasági ágba tartoznak azonban az olyan gazdasági egységek is, amelyek kézi erővel (kézműipari módszerekkel) vagy bedolgozás keretében alakítják át az alapanyagokat új termékké, továbbá azok is, amelyek olyan termékeket adnak el a fogyasztóknak, amelyek gyártási és értékesítési helye azonos pl. pék, mérték utáni szabó. A feldolgozóipari egységek foglalkozhatnak: \n- saját alapanyaguk feldolgozásával, \n- saját alapanyaguk egy részének feldolgoztatásával alvállalkozásban, \n- a (saját vagy nem saját) alapanyagok feldolgozása a teljes folyamatának alvállalkozásba adásával a termék feletti rendelkezési jog birtoklása mellett, \n- a fent említett alvállalkozói folyamatok végrehajtásával. \n\nA feldolgozóipar kibocsátása lehet felhasználásra, fogyasztásra alkalmas késztermék, és lehet további feldolgozásra előállított félkész termék. Például a timföldfinomító terméke az alumíniumgyártás alapanyaga, az alumínium alapanyag, nyersanyag az alumíniumhuzal gyártásában, az alumíniumhuzal a feldolgozott huzaltermékek gyártásának alapanyaga. \n\nÁltalános szabály, hogy ugyanabba a szakágazatba tartozik a gépek és berendezések speciális alkatrészeinek, részegységeinek és tartozékainak gyártása, mint azé a gépé, berendezésé, amelyhez azokat gyártották. A gép és berendezés nem speciális alkatrészeinek és részegységeinek (pl. motor, dugattyú, villamos motor, villamos tartozék, szelep, fogaskerék, csapágy) gyártása a megfelelő feldolgozóipari szakágazatba tartozik, függetlenül attól, hogy milyen a gép, berendezés gyártásához használják fel azokat. A speciális öntött, sajtolt műanyag alkatrészek és tartozékok gyártása azonban a 22.2 alágazatba tartozik. \n\nA feldolgozóiparba tartozik a feldolgozott termék alkatrészeinek, részegységeinek összeszerelése. Ez a nemzetgazdasági ág tartalmazza mind a saját előállítású, mind a vásárolt alkatrészek összeszerelését. \n\nA hulladékanyag hasznosítása, azaz a hulladék másodlagos feldolgozása nyersanyaggá a 38.3 (Hulladékanyag hasznosítása) alágazatba tartozik. A hulladék feldolgozása ugyancsak fizikai és kémiai átalakulással járhat, azonban ezek nem a feldolgozóiparba tartoznak. Ebben az esetben az elsődleges cél a hulladék kezelése és ezért az E (Vízellátás, szennyvíz gyűjtése kezelése, hulladékgazdálkodás, szennyeződésmentesítés) nemzetgazdasági ágba sorolható. A feldolgozóiparba tartozik azonban az új végtermék előállítása (szemben a hulladékból kinyert másodnyersanyaggal), abban az esetben is, ha az eljárás alapanyaga hulladék. Például az ezüst előállítása filmhulladékból a feldolgozóipar része. \n\nAz ipari, a kereskedelmi és a hasonló rendeltetésű termelő gépek és berendezések szakosodott javítása és karbantartása általános szabályként a 33 (Ipari gép, berendezés, eszköz javítása) ágazatba tartozik. A számítógépek, személyi és háztartási cikkek javítását azonban a 95 (Számítógép, személyi, háztartási cikk javítása) ágazat, a gépjárművek javítását pedig a 45 (Gépjármű, motorkerékpár kereskedelme, javítása) ágazat tartalmazza. \n\nA gépek és berendezések üzembe helyezése, szakosodott tevékenységként, a 33.20 szakágazatba tartozik. \n\nMegjegyzés: nem mindig egyértelmű a feldolgozóipar és az osztályozás más nemzetgazdasági ágai közötti határ. Általános szabály, hogy új terméket állítanak elő a feldolgozóipari tevékenységgel, az anyagok átalakításával, így a feldolgozóipar átalakító tevékenységének eredménye új termék kibocsátása. Meglehetősen szubjektív azonban annak a meghatározása, hogy mi hoz létre új terméket. A határok tisztázása érdekében a következő tevékenységek a feldolgozóipar részének minősülnek: \n- a friss hal feldolgozása (osztriga tisztítása, hal filézése), ha az nem a halászhajón végzett halászati tevékenységgel együtt történik, lásd: 10.20 \n- a tej pasztőrözése és csomagolása, lásd: 10.51 \n- a bőr feldolgozása, lásd: 15.11 \n- a fa tartósítása, lásd: 16.10 \n- a nyomdai műveletek és az ehhez kapcsolódó tevékenységek, lásd: 18.1 \n- a gumiabroncs újrafutózása, lásd: 22.11 \n- az előre kevert betontermék gyártása, lásd: 23.63 \n- az elektromos és egyéb felületbevonás, fém hőkezelése, lásd: 25.61 \n- a gépek gyári átalakítása, felújítása (pl. autómotor), lásd: 29.10 \n\nOlyan tevékenységek is vannak viszont, amelyek bizonyos esetekben feldolgozóipari tevékenységnek minősülnek, de a TEÁOR más nemzetgazdasági ágába tartoznak. Ezek a követezők: \n- a fakitermelés az A (Mezőgazdaság, erdőgazdálkodás, halászat) nemzetgazdasági ágba tartozik \n- a mezőgazdasági termékek hasznosítása az A (Mezőgazdaság, erdőgazdálkodás, halászat) nemzetgazdasági ágba tartozik \n- az ételek elkészítése közvetlen helyszíni fogyasztásra 56 (Vendéglátás) \n- az ércek és más ásványok dúsítása a B (Bányászat, kőfejtés) nemzetgazdasági ágba tartozik \n- az előregyártott épületek vagy szerkezetek összeállítása, felépítése és összeszerelése az építkezés helyszínén az F (Építőipar) nemzetgazdasági ágba tartozik \n- az ömlesztett áru kiszerelése kisebb tételszámú egységcsomagokba, beleértve a csomagolást, újracsomagolást és a termékek (pl. likőr, vegyi áru) palackozását is; a maradék szétválogatása, festék kikeverése, a fém, fa-, farostlemez feldarabolása a kereskedelem másodlagos tevékenységeként; a vevő igényeinek megfelelő olyan műveletek, kezelések végzése, amelyek nem változtatják meg az eredeti terméket, a G (Kereskedelem, gépjárműjavítás) nemzetgazdasági ágba tartoznak. \n"
+  },
+  "10.1": {
+    "code": "10.1",
+    "title": "Húsfeldolgozás, -tartósítás, húskészítmény gyártása",
+    "codeAndTitle": "10.1 Húsfeldolgozás, -tartósítás, húskészítmény gyártása"
+  },
+  "10.2": {
+    "code": "10.2",
+    "title": "Halfeldolgozás, -tartósítás",
+    "codeAndTitle": "10.2 Halfeldolgozás, -tartósítás"
+  },
+  "10.3": {
+    "code": "10.3",
+    "title": "Gyümölcs-, zöldségfeldolgozás, -tartósítás",
+    "codeAndTitle": "10.3 Gyümölcs-, zöldségfeldolgozás, -tartósítás"
+  },
+  "10.4": {
+    "code": "10.4",
+    "title": "Növényi, állati olaj gyártása",
+    "codeAndTitle": "10.4 Növényi, állati olaj gyártása",
+    "description": "Ez az alágazat tartalmazza a nyers és a finomított, állati vagy növényi eredetű olajak és zsírok előállítását, kivéve a disznózsír és más állati eredetű étkezési zsír kiolvasztását és finomítását."
+  },
+  "10.5": {
+    "code": "10.5",
+    "title": "Tejfeldolgozás",
+    "codeAndTitle": "10.5 Tejfeldolgozás"
+  },
+  "10.6": {
+    "code": "10.6",
+    "title": "Malomipari termék, keményítő gyártása",
+    "codeAndTitle": "10.6 Malomipari termék, keményítő gyártása",
+    "description": "Ebbe az alágazatba tartozik a liszt és korpa gyártása gabonából és zöldségekből, a rizs őrlése, tisztítása és fényezése, valamint a kevert liszt és tészta készítése az említett alapanyagokból.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a nedves gabonamagvak és zöldségek őrlése, továbbá a keményítő és keményítőtermékek gyártása"
+  },
+  "10.7": {
+    "code": "10.7",
+    "title": "Pékáru, tésztafélék gyártása",
+    "codeAndTitle": "10.7 Pékáru, tésztafélék gyártása",
+    "description": "Ebbe az alágazatba tartozik a pékáru, a makaróni, a metélt tészta és más tésztafélék gyártása."
+  },
+  "10.8": {
+    "code": "10.8",
+    "title": "Egyéb élelmiszer gyártása",
+    "codeAndTitle": "10.8 Egyéb élelmiszer gyártása",
+    "description": "Ebbe az alágazatba tartozik a cukor és a cukorkészítmények, a készételek, a kávé, a tea, a fűszerek, valamint a romlandó és a speciális ételek gyártása."
+  },
+  "10.9": {
+    "code": "10.9",
+    "title": "Takarmány gyártása",
+    "codeAndTitle": "10.9 Takarmány gyártása"
+  },
+  "11.0": {
+    "code": "11.0",
+    "title": "Italgyártás",
+    "codeAndTitle": "11.0 Italgyártás"
+  },
+  "12.0": {
+    "code": "12.0",
+    "title": "Dohánytermék gyártása",
+    "codeAndTitle": "12.0 Dohánytermék gyártása"
+  },
+  "13.1": {
+    "code": "13.1",
+    "title": "Textilszálak fonása",
+    "codeAndTitle": "13.1 Textilszálak fonása"
+  },
+  "13.2": {
+    "code": "13.2",
+    "title": "Textilszövés",
+    "codeAndTitle": "13.2 Textilszövés"
+  },
+  "13.3": {
+    "code": "13.3",
+    "title": "Textilkikészítés",
+    "codeAndTitle": "13.3 Textilkikészítés"
+  },
+  "13.9": {
+    "code": "13.9",
+    "title": "Egyéb textiláru gyártása",
+    "codeAndTitle": "13.9 Egyéb textiláru gyártása",
+    "description": "Ebbe az alágazatba tartozik a textíliákból készült termékek gyártása (kivéve a ruházati cikkek): mint konfekcionált textiláru, szőnyeg, kötéláru, keskenyszövet, paszományáru stb."
+  },
+  "14.1": {
+    "code": "14.1",
+    "title": "Ruházat gyártása (kivéve: szőrmeruházat)",
+    "codeAndTitle": "14.1 Ruházat gyártása (kivéve: szőrmeruházat)",
+    "description": "Ebbe az alágazatba tartozik a textilruházat gyártása mindenfajta anyagból, beleértve a bevont, impregnált vagy gumírozott anyagokat is."
+  },
+  "14.2": {
+    "code": "14.2",
+    "title": "Szőrmecikk gyártása",
+    "codeAndTitle": "14.2 Szőrmecikk gyártása"
+  },
+  "14.3": {
+    "code": "14.3",
+    "title": "Kötött, hurkolt cikk gyártása",
+    "codeAndTitle": "14.3 Kötött, hurkolt cikk gyártása"
+  },
+  "15.1": {
+    "code": "15.1",
+    "title": "Bőr, szőrme kikészítése; táskafélék, szíjazat gyártása",
+    "codeAndTitle": "15.1 Bőr, szőrme kikészítése; táskafélék, szíjazat gyártása",
+    "description": "Ebbe az alágazatba tartozik a bőr és szőrme gyártása, valamint a belőlük készült termékek előállítása."
+  },
+  "15.2": {
+    "code": "15.2",
+    "title": "Lábbeligyártás",
+    "codeAndTitle": "15.2 Lábbeligyártás"
+  },
+  "16.1": {
+    "code": "16.1",
+    "title": "Fűrészárugyártás",
+    "codeAndTitle": "16.1 Fűrészárugyártás"
+  },
+  "16.2": {
+    "code": "16.2",
+    "title": "Fa-, parafatermék, fonottáru gyártása",
+    "codeAndTitle": "16.2 Fa-, parafatermék, fonottáru gyártása",
+    "description": "Ebbe az alágazatba tartozik a fából, parafából, szalmából és más fonható anyagból készült termékek gyártása, beleértve mind az alapformázással előállított, mind az összeállított terméket."
+  },
+  "17.1": {
+    "code": "17.1",
+    "title": "Papíripari rostanyag, papír gyártása",
+    "codeAndTitle": "17.1 Papíripari rostanyag, papír gyártása"
+  },
+  "17.2": {
+    "code": "17.2",
+    "title": "Papírtermék gyártása",
+    "codeAndTitle": "17.2 Papírtermék gyártása"
+  },
+  "18.1": {
+    "code": "18.1",
+    "title": "Nyomdai tevékenység",
+    "codeAndTitle": "18.1 Nyomdai tevékenység",
+    "description": "Ebbe az alágazatba tartozik a termékek nyomtatása, úgymint a napilap, a folyóirat, a könyv, az üzleti formanyomtatvány, a képeslap és más termékek; továbbá a kapcsolódó kisegítő tevékenységek, úgymint a könyvkötés, a nyomólemez-készítés, az adatokból képalkotás stb. A nyomást többféle eljárással és különböző anyagokra lehet végezni."
+  },
+  "18.2": {
+    "code": "18.2",
+    "title": "Egyéb sokszorosítás",
+    "codeAndTitle": "18.2 Egyéb sokszorosítás"
+  },
+  "19.1": {
+    "code": "19.1",
+    "title": "Kokszgyártás",
+    "codeAndTitle": "19.1 Kokszgyártás"
+  },
+  "19.2": {
+    "code": "19.2",
+    "title": "Kőolaj-feldolgozás",
+    "codeAndTitle": "19.2 Kőolaj-feldolgozás"
+  },
+  "20.1": {
+    "code": "20.1",
+    "title": "Vegyi alapanyag gyártása",
+    "codeAndTitle": "20.1 Vegyi alapanyag gyártása",
+    "description": "Ebbe az alágazatba tartozik a vegyi alapanyagok, a műtrágya és a nitrogén vegyületek, a műanyag és a szintetikus kaucsuk alapanyagok gyártása."
+  },
+  "20.2": {
+    "code": "20.2",
+    "title": "Mezőgazdasági vegyi termék gyártása",
+    "codeAndTitle": "20.2 Mezőgazdasági vegyi termék gyártása"
+  },
+  "20.3": {
+    "code": "20.3",
+    "title": "Festék, bevonóanyag gyártása",
+    "codeAndTitle": "20.3 Festék, bevonóanyag gyártása"
+  },
+  "20.4": {
+    "code": "20.4",
+    "title": "Tisztítószer, testápolási cikk gyártása",
+    "codeAndTitle": "20.4 Tisztítószer, testápolási cikk gyártása"
+  },
+  "20.5": {
+    "code": "20.5",
+    "title": "Egyéb vegyi termék gyártása",
+    "codeAndTitle": "20.5 Egyéb vegyi termék gyártása",
+    "description": "Ebbe az alágazatba tartozik a robbanóanyagok és a pirotechnikai termékek, az enyv, az illó olajok és a m.n.s. vegyi termékek, például a fényképészeti célú vegyi anyagok (beleértve a filmet és a fényérzékeny papírt), a diagnosztikai készítmények stb. gyártása."
+  },
+  "20.6": {
+    "code": "20.6",
+    "title": "Vegyi szál gyártása",
+    "codeAndTitle": "20.6 Vegyi szál gyártása"
+  },
+  "21.1": {
+    "code": "21.1",
+    "title": "Gyógyszeralapanyag-gyártás",
+    "codeAndTitle": "21.1 Gyógyszeralapanyag-gyártás"
+  },
+  "21.2": {
+    "code": "21.2",
+    "title": "Gyógyszerkészítmény gyártása",
+    "codeAndTitle": "21.2 Gyógyszerkészítmény gyártása"
+  },
+  "22.1": {
+    "code": "22.1",
+    "title": "Gumitermék gyártása",
+    "codeAndTitle": "22.1 Gumitermék gyártása",
+    "description": "Ebbe az alágazatba tartozik a gumitermék gyártása."
+  },
+  "22.2": {
+    "code": "22.2",
+    "title": "Műanyag termék gyártása",
+    "codeAndTitle": "22.2 Műanyag termék gyártása",
+    "description": "Ebbe az alágazatba tartozik az új, vagy elhasznált (azaz begyűjtött) műanyag alapanyagok feldolgozása félkész állapotba (intermedierré), vagy késztermékké, a szokásos technológiai folyamatok: présöntés, extrudálás, fröccsöntés öblös termék fújásos öntése és egyéb formázás. A legtöbb technológia a termékek széles választékának előállítására alkalmas."
+  },
+  "23.1": {
+    "code": "23.1",
+    "title": "Üveg, üvegtermék gyártása",
+    "codeAndTitle": "23.1 Üveg, üvegtermék gyártása",
+    "description": "Ebbe az alágazatba tartozik a bármely úton előállított üveg minden fajtája, és az üvegtermékek."
+  },
+  "23.2": {
+    "code": "23.2",
+    "title": "Tűzálló termék gyártása",
+    "codeAndTitle": "23.2 Tűzálló termék gyártása"
+  },
+  "23.3": {
+    "code": "23.3",
+    "title": "Kerámia, agyag építőanyag gyártása",
+    "codeAndTitle": "23.3 Kerámia, agyag építőanyag gyártása"
+  },
+  "23.4": {
+    "code": "23.4",
+    "title": "Porcelán, kerámiatermék gyártása",
+    "codeAndTitle": "23.4 Porcelán, kerámiatermék gyártása",
+    "description": "Ebbe az alágazatba tartozik a kitermelt nemfém ásványi anyagokból, mint a homok, a kavics, a kő vagy az agyag, előállított késztermékek gyártása."
+  },
+  "23.5": {
+    "code": "23.5",
+    "title": "Cement-, mész-, gipszgyártás",
+    "codeAndTitle": "23.5 Cement-, mész-, gipszgyártás"
+  },
+  "23.6": {
+    "code": "23.6",
+    "title": "Beton-, gipsz-, cementtermék gyártása",
+    "codeAndTitle": "23.6 Beton-, gipsz-, cementtermék gyártása"
+  },
+  "23.7": {
+    "code": "23.7",
+    "title": "Kőmegmunkálás",
+    "codeAndTitle": "23.7 Kőmegmunkálás"
+  },
+  "23.9": {
+    "code": "23.9",
+    "title": "Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s.",
+    "codeAndTitle": "23.9 Egyéb csiszolótermék és nemfém ásványi termék gyártása m.n.s.",
+    "description": "Ebbe az alágazatba tartozik az egyéb nemfém ásványi termékek gyártása."
+  },
+  "24.1": {
+    "code": "24.1",
+    "title": "Vas-, acél-, vasötvözet-alapanyag gyártása",
+    "codeAndTitle": "24.1 Vas-, acél-, vasötvözet-alapanyag gyártása",
+    "description": "Ez az alágazat tartalmaz olyan tevékenységeket, mint pl. vasérc közvetlen redukciója, folyékony vagy szilárd nyersvas gyártása, acélalapanyag előállítása, vasötvözetek és acéltermékek gyártása."
+  },
+  "24.2": {
+    "code": "24.2",
+    "title": "Acélcsőgyártás",
+    "codeAndTitle": "24.2 Acélcsőgyártás"
+  },
+  "24.3": {
+    "code": "24.3",
+    "title": "Egyéb kohászati termék gyártása acélból",
+    "codeAndTitle": "24.3 Egyéb kohászati termék gyártása acélból",
+    "description": "Ebbe az alágazatba tartozik az acéltermékek gyártása hideg alakítással."
+  },
+  "24.4": {
+    "code": "24.4",
+    "title": "Nem vas fém alapanyag gyártása",
+    "codeAndTitle": "24.4 Nem vas fém alapanyag gyártása"
+  },
+  "24.5": {
+    "code": "24.5",
+    "title": "Fémöntés",
+    "codeAndTitle": "24.5 Fémöntés",
+    "description": "Ebbe az alágazatba tartozik az öntött féltermékek és különféle öntvények gyártása öntő eljárással.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a kész öntött termékek gyártása, ilyenek:\n- központi fűtéshez kazánok és radiátorok gyártása, lásd: 25.21\n- öntött háztartási fémeszközök gyártása, lásd: 25.99"
+  },
+  "25.1": {
+    "code": "25.1",
+    "title": "Fémszerkezet, -épületelem gyártása",
+    "codeAndTitle": "25.1 Fémszerkezet, -épületelem gyártása",
+    "description": "Ebbe az alágazatba tartozik a fémszerkezetek gyártása (ilyenek az építőipari fém keretszerkezetek, vagy alkatrészeik)."
+  },
+  "25.2": {
+    "code": "25.2",
+    "title": "Fűtési kazán, radiátor, fémtartály gyártása",
+    "codeAndTitle": "25.2 Fűtési kazán, radiátor, fémtartály gyártása",
+    "description": "Ebbe az alágazatba tartozik a tartályok, központi fűtési radiátorok, kazánok gyártása."
+  },
+  "25.3": {
+    "code": "25.3",
+    "title": "Gőzkazán gyártása",
+    "codeAndTitle": "25.3 Gőzkazán gyártása",
+    "description": "Ebbe az alágazatba tartozik a gőzkazánok gyártása."
+  },
+  "25.4": {
+    "code": "25.4",
+    "title": "Fegyver-, lőszergyártás",
+    "codeAndTitle": "25.4 Fegyver-, lőszergyártás"
+  },
+  "25.5": {
+    "code": "25.5",
+    "title": "Fémalakítás, porkohászat",
+    "codeAndTitle": "25.5 Fémalakítás, porkohászat",
+    "description": "Ebbe az alágazatba tartozik a fémek általános megmunkálása, mint pl. kovácsoló, sajtoló alakítása, amit jellegzetesen díjazásért vagy szerződéses alapon végeznek."
+  },
+  "25.6": {
+    "code": "25.6",
+    "title": "Fém felületkezelése, megmunkálása",
+    "codeAndTitle": "25.6 Fém felületkezelése, megmunkálása",
+    "description": "Ebbe az alágazatba tartozik a fémek általános felületkezelése, mint pl. bevonás, festés, gravírozás, forgácsolás, polírozás, hegesztés stb., amit jellegzetesen díjazásért vagy szerződéses alapon végeznek."
+  },
+  "25.7": {
+    "code": "25.7",
+    "title": "Evőeszköz, szerszám, általános fémáru gyártása",
+    "codeAndTitle": "25.7 Evőeszköz, szerszám, általános fémáru gyártása",
+    "description": "Ebbe az alágazatba tartozik az evőeszköz, a fém kéziszerszám és az általános fémáru gyártása."
+  },
+  "25.9": {
+    "code": "25.9",
+    "title": "Egyéb fémfeldolgozási termék gyártása",
+    "codeAndTitle": "25.9 Egyéb fémfeldolgozási termék gyártása",
+    "description": "Ebbe az alágazatba különféle háztartási és ipari rendeltetésű fémfeldolgozási termékek tartoznak, mint pl. kanna, vödör; szeg, csap, csavar; fém háztartási cikkek; fém épületszerelvény, hajócsavar és horgony; vasúti pálya szerelvényei stb."
+  },
+  "26.1": {
+    "code": "26.1",
+    "title": "Elektronikai alkatrész, áramköri kártya gyártása",
+    "codeAndTitle": "26.1 Elektronikai alkatrész, áramköri kártya gyártása"
+  },
+  "26.2": {
+    "code": "26.2",
+    "title": "Számítógép, perifériás egység gyártása",
+    "codeAndTitle": "26.2 Számítógép, perifériás egység gyártása"
+  },
+  "26.3": {
+    "code": "26.3",
+    "title": "Híradástechnikai berendezés gyártása",
+    "codeAndTitle": "26.3 Híradástechnikai berendezés gyártása"
+  },
+  "26.4": {
+    "code": "26.4",
+    "title": "Elektronikus fogyasztási cikk gyártása",
+    "codeAndTitle": "26.4 Elektronikus fogyasztási cikk gyártása"
+  },
+  "26.5": {
+    "code": "26.5",
+    "title": "Műszer-, óragyártás",
+    "codeAndTitle": "26.5 Műszer-, óragyártás",
+    "description": "Ebbe az alágazatba tartozik a különböző ipari és nem ipari rendeltetésű mérő, ellenőrző, navigációs, folyamatirányító berendezés gyártása, beleértve az időmérő berendezés, mint például óra és hasonló szerkezet gyártását."
+  },
+  "26.6": {
+    "code": "26.6",
+    "title": "Elektronikus orvosi berendezés gyártása",
+    "codeAndTitle": "26.6 Elektronikus orvosi berendezés gyártása"
+  },
+  "26.7": {
+    "code": "26.7",
+    "title": "Optikai eszköz gyártása",
+    "codeAndTitle": "26.7 Optikai eszköz gyártása"
+  },
+  "26.8": {
+    "code": "26.8",
+    "title": "Mágneses, optikai információhordozó gyártása",
+    "codeAndTitle": "26.8 Mágneses, optikai információhordozó gyártása"
+  },
+  "27.1": {
+    "code": "27.1",
+    "title": "Villamos motor, áramfejlesztő, áramelosztó, -szabályozó készülék gyártása",
+    "codeAndTitle": "27.1 Villamos motor, áramfejlesztő, áramelosztó, -szabályozó készülék gyártása",
+    "description": "Ebbe az alágazatba tartozik a villamosenergetikai, az elosztó és a különleges transzformátor; a villamos motor, generátor és motorgenerátor gépcsoport gyártása."
+  },
+  "27.2": {
+    "code": "27.2",
+    "title": "Akkumulátor, szárazelem gyártása",
+    "codeAndTitle": "27.2 Akkumulátor, szárazelem gyártása"
+  },
+  "27.3": {
+    "code": "27.3",
+    "title": "Vezeték, kábel, szerelvény gyártása",
+    "codeAndTitle": "27.3 Vezeték, kábel, szerelvény gyártása",
+    "description": "Ebbe az alágazatba tartozik, az anyagától függetlenül, az áramot vezető, valamint az áramot nem vezető huzalozó eszközök gyártása a villamos áramkörök részére.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a szigetelt vezeték, a kábel és a száloptikai kábel gyártása"
+  },
+  "27.4": {
+    "code": "27.4",
+    "title": "Villamos világítóeszköz gyártása",
+    "codeAndTitle": "27.4 Villamos világítóeszköz gyártása"
+  },
+  "27.5": {
+    "code": "27.5",
+    "title": "Háztartási készülék gyártása",
+    "codeAndTitle": "27.5 Háztartási készülék gyártása",
+    "description": "Ebbe az alágazatba tartozik a kisméretű villamos készülék, elektromos háztartási felszerelés, háztartási ventillátor, háztartási porszívó, villamos háztartási padlóápoló gép, háztartási főzőkészülék, háztartási mosógép, háztartási hűtőszekrény, fagyasztószekrény és -láda, és egyéb villamos és nem villamos háztartási készülék gyártása, pl. mosogatógép, vízmelegítő és hulladékmegsemmisítő berendezés. Ebbe az alágazatba tartozik az elektromos, gáz és más üzemanyaggal működtetett készülékek gyártása is."
+  },
+  "27.9": {
+    "code": "27.9",
+    "title": "Egyéb villamos berendezés gyártása",
+    "codeAndTitle": "27.9 Egyéb villamos berendezés gyártása"
+  },
+  "28.1": {
+    "code": "28.1",
+    "title": "Általános rendeltetésű gép gyártása",
+    "codeAndTitle": "28.1 Általános rendeltetésű gép gyártása"
+  },
+  "28.2": {
+    "code": "28.2",
+    "title": "Egyéb általános rendeltetésű gép gyártása",
+    "codeAndTitle": "28.2 Egyéb általános rendeltetésű gép gyártása"
+  },
+  "28.3": {
+    "code": "28.3",
+    "title": "Mezőgazdasági, erdészeti gép gyártása",
+    "codeAndTitle": "28.3 Mezőgazdasági, erdészeti gép gyártása"
+  },
+  "28.4": {
+    "code": "28.4",
+    "title": "Szerszámgép-gyártás",
+    "codeAndTitle": "28.4 Szerszámgép-gyártás",
+    "description": "Ebbe az alágazatba tartozik a fémalakító gépek és a szerszámgépek gyártása, azaz olyan - szerszámgép - gyártása, amely fém és egyéb anyag (fa, csont, kő, keménygumi és műanyag, hideg üveg stb.) megmunkálására alkalmas, azokkal együtt, amelyeknél lézersugárral, ultrahang hullámmal plazmaívvel, mágneses impulzussal stb. végzik a megmunkálást."
+  },
+  "28.9": {
+    "code": "28.9",
+    "title": "Egyéb speciális rendeltetésű gép gyártása",
+    "codeAndTitle": "28.9 Egyéb speciális rendeltetésű gép gyártása",
+    "description": "Ebbe az alágazatba tartozik azon speciális rendeltetésű gépek gyártása, amelyeket kizárólag egy vagy néhány TEÁOR-ágazatban alkalmaznak.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\nAz idesorolt legtöbb gépet más feldolgozási folyamatokban (pl. az élelmiszer-feldolgozásban, textiliparban stb.) alkalmazzák, az alágazatba tartozik más speciális (nem a feldolgozóiparban alkalmazott) gépek gyártása is, mint pl. légi jármű felbocsátó berendezése, szabadidőpark felszerelése."
+  },
+  "29.1": {
+    "code": "29.1",
+    "title": "Közúti gépjármű gyártása",
+    "codeAndTitle": "29.1 Közúti gépjármű gyártása"
+  },
+  "29.2": {
+    "code": "29.2",
+    "title": "Gépjármű-karosszéria, pótkocsi gyártása",
+    "codeAndTitle": "29.2 Gépjármű-karosszéria, pótkocsi gyártása"
+  },
+  "29.3": {
+    "code": "29.3",
+    "title": "Közúti jármű alkatrészeinek gyártása",
+    "codeAndTitle": "29.3 Közúti jármű alkatrészeinek gyártása"
+  },
+  "30.1": {
+    "code": "30.1",
+    "title": "Hajó, csónak gyártása",
+    "codeAndTitle": "30.1 Hajó, csónak gyártása",
+    "description": "Ebbe az alágazatba tartozik a hajók, csónakok, szállítási és más gazdasági, valamint a sport és szabadidő rendeltetésű úszó szerkezetek gyártása, valamint a hajó gyári átépítése."
+  },
+  "30.2": {
+    "code": "30.2",
+    "title": "Vasúti, kötöttpályás jármű gyártása",
+    "codeAndTitle": "30.2 Vasúti, kötöttpályás jármű gyártása"
+  },
+  "30.3": {
+    "code": "30.3",
+    "title": "Légi-, űrjármű gyártása",
+    "codeAndTitle": "30.3 Légi-, űrjármű gyártása"
+  },
+  "30.4": {
+    "code": "30.4",
+    "title": "Katonai harcjármű gyártása",
+    "codeAndTitle": "30.4 Katonai harcjármű gyártása"
+  },
+  "30.9": {
+    "code": "30.9",
+    "title": "Egyéb jármű gyártása",
+    "codeAndTitle": "30.9 Egyéb jármű gyártása",
+    "description": "Ebbe az alágazatba tartozik olyan járművek gyártása, amelyek nem a gépjármű, a vasúti, vízi vagy légi jármű és a katonai jármű csoportba tartoznak."
+  },
+  "31.0": {
+    "code": "31.0",
+    "title": "Bútorgyártás",
+    "codeAndTitle": "31.0 Bútorgyártás"
+  },
+  "32.1": {
+    "code": "32.1",
+    "title": "Ékszergyártás",
+    "codeAndTitle": "32.1 Ékszergyártás",
+    "description": "Ebbe az alágazatba tartozik az ékszer és bizsu gyártása."
+  },
+  "32.2": {
+    "code": "32.2",
+    "title": "Hangszergyártás",
+    "codeAndTitle": "32.2 Hangszergyártás"
+  },
+  "32.3": {
+    "code": "32.3",
+    "title": "Sportszergyártás",
+    "codeAndTitle": "32.3 Sportszergyártás"
+  },
+  "32.4": {
+    "code": "32.4",
+    "title": "Játékgyártás",
+    "codeAndTitle": "32.4 Játékgyártás"
+  },
+  "32.5": {
+    "code": "32.5",
+    "title": "Orvosi eszköz gyártása",
+    "codeAndTitle": "32.5 Orvosi eszköz gyártása"
+  },
+  "32.9": {
+    "code": "32.9",
+    "title": "M.n.s. egyéb feldolgozóipari tevékenység",
+    "codeAndTitle": "32.9 M.n.s. egyéb feldolgozóipari tevékenység"
+  },
+  "33.1": {
+    "code": "33.1",
+    "title": "Ipari gép, berendezés, eszköz javítása",
+    "codeAndTitle": "33.1 Ipari gép, berendezés, eszköz javítása",
+    "description": "Ebbe az alágazatba tartozik a feldolgozóiparban előállított javak szakosodott javítása, azzal a céllal, hogy a fémtermék, gép, gépi berendezés rendeltetésszerű működését helyreállítsák. Az alágazatba tartozik e termékek általános és rendszeres karbantartása (azaz szervízelése) is, ami a hatékony működést biztosítja, és segít megelőzni a váratlan géphibákat és a szükségtelen javításokat.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a gépek és berendezések átalakítása és ismételt feldolgozása, lásd: a terméknek megfelelő besorolást a 25-30 ágban\n- az ipari gép tisztítása, lásd: 81.22\n- a számítógép és kommunikációs berendezés javítása és karbantartása, lásd: 95.1\n- a háztartási gép javítása és karbantartása, lásd: 95.2"
+  },
+  "33.2": {
+    "code": "33.2",
+    "title": "Ipari gép, berendezés üzembe helyezése",
+    "codeAndTitle": "33.2 Ipari gép, berendezés üzembe helyezése"
+  },
+  "D": {
+    "code": "D",
+    "title": "VILLAMOSENERGIA-, GÁZ-, GŐZELLÁTÁS, LÉGKONDÍCIONÁLÁS",
+    "codeAndTitle": "D VILLAMOSENERGIA-, GÁZ-, GŐZELLÁTÁS, LÉGKONDÍCIONÁLÁS",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik a villamosenergia-, földgáz-, gőz-, melegvízellátás és az ezeknek megfelelő szolgáltatások állandó infrastruktúrán (közműhálózaton), gerinc- és leágazó vezetéken keresztül. A hálózat mérete nem meghatározó.\n\nEbbe a nemzetgazdasági ágba tartozik az olyan elektromos és gázközmű működtetése is, amely termeli, ellenőrzi és elosztja a villamos energiát, illetve a gázt.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartozik még:\n- a gőzellátás és a légkondicionálás",
+    "inThisSectorMore": "Ebbe a nemzetgazdasági ágba tartozik - magyar kiegészítés:\n- az ipari park és lakóépület villamosenergia-, gáz-, gőzellátása, és hasonló szolgáltatása",
+    "notInThisSector": "Nem ebbe a nemzetgazdasági ágba tartozik a vízellátás és szennyvízelvezetés, lásd: 36, 37, valamint a gáz szállítása csővezetéken (jellemzően nagy távolságra)."
+  },
+  "35.1": {
+    "code": "35.1",
+    "title": "Villamosenergia-termelés, -ellátás",
+    "codeAndTitle": "35.1 Villamosenergia-termelés, -ellátás",
+    "description": "Ebbe az alágazatba tartozik a villamos energia előállítása nagy mennyiségben, a villamos energia szállítása a villamosenergia-termelőktől az elosztó állomásokig, és a villamos energia elosztása a végfelhasználókig."
+  },
+  "35.2": {
+    "code": "35.2",
+    "title": "Gázellátás",
+    "codeAndTitle": "35.2 Gázellátás",
+    "description": "Ebbe az alágazatba tartozik a gáz gyártása, és a földgáz vagy a szintetikus gázok vezetéken keresztüli eljuttatása a felhasználóhoz. Idetartoznak még a gázbrókerek, akik a gáz értékesítését mások által üzemeltetett hálózaton keresztül végzik."
+  },
+  "35.3": {
+    "code": "35.3",
+    "title": "Gőzellátás, légkondicionálás",
+    "codeAndTitle": "35.3 Gőzellátás, légkondicionálás"
+  },
+  "E": {
+    "code": "E",
+    "title": "VÍZELLÁTÁS; SZENNYVÍZ GYŰJTÉSE, KEZELÉSE, HULLADÉKGAZDÁLKODÁS, SZENNYEZŐDÉSMENTESÍTÉS",
+    "codeAndTitle": "E VÍZELLÁTÁS; SZENNYVÍZ GYŰJTÉSE, KEZELÉSE, HULLADÉKGAZDÁLKODÁS, SZENNYEZŐDÉSMENTESÍTÉS",
+    "description": "Ebbe a nemzetgazdasági ágba tartoznak mindazok a tevékenységek, amelyek célja az egyes hulladékfajták kezelése (beleértve az összegyűjtést, kezelést és ártalmatlanítást), ilyenek a szilárd és nem szilárd ipari és háztartási hulladékok, a szennyezett földterületek és szennyvizek. A hulladékkezelés (szemét vagy szennyvíz) során keletkezett végtermékek ártalmatlaníthatók vagy más termelési folyamat bemenő termékei lehetnek.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartoznak még:\nA vízellátással kapcsolatos tevékenységek, mivel azok gyakran a szennyvízkezeléshez kapcsolódnak, illetve ugyanaz a szolgáltató végzi."
+  },
+  "36.0": {
+    "code": "36.0",
+    "title": "Víztermelés, -kezelés, -ellátás",
+    "codeAndTitle": "36.0 Víztermelés, -kezelés, -ellátás"
+  },
+  "37.0": {
+    "code": "37.0",
+    "title": "Szennyvíz gyűjtése, kezelése",
+    "codeAndTitle": "37.0 Szennyvíz gyűjtése, kezelése"
+  },
+  "38.1": {
+    "code": "38.1",
+    "title": "Hulladékgyűjtés",
+    "codeAndTitle": "38.1 Hulladékgyűjtés",
+    "description": "Ebbe az alágazatba tartozik a háztartásoknál és a gazdasági szervezeteknél képződött hulladékok összegyűjtése szemetesládákkal, vagy kerekes gyűjtőedényekkel (kukákkal), konténerekkel stb. Idetartozik a veszélyes és a nem veszélyes hulladékok gyűjtése is, ilyen pl. a háztartásoknál képződött hulladék, az akkumulátor, a főzésből származó olaj és zsír, a szállítások során illetve garázsokban keletkező használt olaj, valamint az építési és a bontási hulladék. Idetartozik a hulladékgyűjtés integrált részét képező hulladékszállítás is."
+  },
+  "38.2": {
+    "code": "38.2",
+    "title": "Hulladékkezelés, -ártalmatlanítás",
+    "codeAndTitle": "38.2 Hulladékkezelés, -ártalmatlanítás",
+    "description": "Ebbe az alágazatba tartozik az egyes hulladékfajták kezelése és ártalmatlanítása különböző módon, úgymint a hulladékok ártalmatlanítása komposzttelephelyen komposztanyag-készítéssel egybekötve; mérgező élő vagy elhullott állatok és más fertőzött hulladékok kezelése és ártalmatlanítása; kórházakból stb. származó átmenetileg radioaktív hulladék kezelése és ártalmatlanítása; a szemét földfelszíni elhelyezése vagy vízbe engedése; a szemét elásása, eltemetése; használt termékekből, pl. hűtőszekrényekből származó kártékony alkotórészek ártalmatlanítása; ártalmatlanítás a hulladék elégetésével vagy egyéb módon. A hulladékégetés energiahasznosítással is idetartozik.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a szennyvíz kezelése és ártalmatlanítása, lásd: 37.00\n- a hulladékok hasznosítása anyagában, lásd: 38.3"
+  },
+  "38.3": {
+    "code": "38.3",
+    "title": "Hulladékanyag hasznosítása",
+    "codeAndTitle": "38.3 Hulladékanyag hasznosítása",
+    "inThisSubcategoryMore": "Ebbe az alágazatba tartozik - magyar kiegészítés:\nA hulladékok és egyéb cikkek másodlagos nyersanyaggá alakítási folyamatai, ahol tényleges átalakítási folyamat megy végbe (az így keletkező másodlagos nyersanyag közvetlenül alkalmas ipari feldolgozásra de nem végtermék)."
+  },
+  "39.0": {
+    "code": "39.0",
+    "title": "Szennyeződésmentesítés, egyéb hulladékkezelés",
+    "codeAndTitle": "39.0 Szennyeződésmentesítés, egyéb hulladékkezelés"
+  },
+  "F": {
+    "code": "F",
+    "title": "ÉPÍTŐIPAR",
+    "codeAndTitle": "F ÉPÍTŐIPAR",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik az épületek és egyéb építmények szerkezetkész, valamint szakosodott építése. Idetartozik az új építmény építése, a megfelelő építmények javítása, bővítése és átalakítása, az előre gyártott épületek vagy egyéb szerkezetek helyszíni felállítása, összeszerelése, beleértve az ideiglenes jellegű építményekét is.\n\nA szerkezetkész építmények építése magában foglalja a teljes lakóépület, irodaház, kereskedelmi, közösségi, közcélú, mezőgazdasági stb. épület, valamint egyéb építmény pl. autópálya, út, utca, híd, alagút, vasút, repülőtér, kikötő és egyéb vízi létesítmény, öntözőrendszer (szennyvíz-) csatornarendszer, ipari létesítmény, csővezeték, elektromos vezeték, sportpálya stb. építését.\n\nEzek a munkák saját vállalkozásban, díjazásért vagy szerződéses alapon végezhetők. A munkák egy része (vagy esetenként az egésze) alvállalkozók által is kivitelezhető. Idetartozik az építési projekt egészéért felelős egységek tevékenysége és az épületek és egyéb építmények javítási munkái is.\n\nEbbe a nemzetgazdasági ágba tartozik az épületek (lásd: 41) és az egyéb építmények (lásd: 42) szerkezetkész építése, valamint az építési folyamat részeként végzett szakosodott építőipari szakmunka (lásd: 43).\n\nAz építési eszköz kölcsönzése személyzettel az adott eszközzel végzett építőipari tevékenységhez tartozik.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartozik még:\n- a későbbi eladásra szánt épületek vagy egyéb építmények építésével kapcsolatos épületépítési projekt szervezése a pénzügyi, műszaki és fizikai eszközök együttes biztosításával",
+    "inThisSectorMore": "Ebbe a nemzetgazdasági ágba tartozik - magyar kiegészítés:\nA 41 \"Épületek építése\" - ágazatban jól elkülöníthető a fejlesztők (41.10) és a kivitelezők (41.20) tevékenysége, mivel más és más alágazatba tartoznak. A 42 \"Egyéb építmények építése\" - ágazatban azonban mind a fejlesztők, mind a kivitelezők ugyanabba a szakágazatba tartoznak, és a TESZOR 5-6 számjegyű csoport/alcsoport szintjén az eredmény típusából (szolgáltatás vagy termék) kiindulva állapítható meg, hogy fejlesztő vagy kivitelező tevékenységről van szó.\n\nIdetartozik a termőterület építőipari jellegű kialakítási földmunkái (pl. meredek dőlésű területeken, teraszok kialakítása, vízelvezetés, rizsföldek előkészítése).",
+    "notInThisSector": "Ha e tevékenységek célja nem az építmények későbbi értékesítése, hanem üzemeltetése (pl. az épület bérbeadása, feldolgozóipari tevékenység ezen a telephelyen), az a megfelelő tevékenységbe pl. ingatlanügyletek, feldolgozóipar stb. tartozik."
+  },
+  "41.1": {
+    "code": "41.1",
+    "title": "Épületépítési projekt szervezése",
+    "codeAndTitle": "41.1 Épületépítési projekt szervezése"
+  },
+  "41.2": {
+    "code": "41.2",
+    "title": "Lakó- és nem lakó épület építése",
+    "codeAndTitle": "41.2 Lakó- és nem lakó épület építése",
+    "description": "Ebbe az alágazatba tartozik a lakó- és nem lakóépület építése. Ezek a munkák saját vállalkozásban eladásra, díjazásért vagy szerződéses alapon végezhetők. A munkák egy része (vagy akár egésze) alvállalkozók által is kivitelezhető. Amennyiben az alvállalkozó csak egy bizonyos építőipari résztevékenységet végez, akkor a 43 ágazatba tartozik."
+  },
+  "42.1": {
+    "code": "42.1",
+    "title": "Út, vasút építése",
+    "codeAndTitle": "42.1 Út, vasút építése"
+  },
+  "42.2": {
+    "code": "42.2",
+    "title": "Közműépítés",
+    "codeAndTitle": "42.2 Közműépítés"
+  },
+  "42.9": {
+    "code": "42.9",
+    "title": "M.n.s. egyéb építmény építése",
+    "codeAndTitle": "42.9 M.n.s. egyéb építmény építése"
+  },
+  "43.1": {
+    "code": "43.1",
+    "title": "Bontás, építési terület előkészítése",
+    "codeAndTitle": "43.1 Bontás, építési terület előkészítése",
+    "description": "Ebbe az alágazatba tartozik a terület előkészítése építési célra, beleértve a meglévő szerkezetek eltávolítását is."
+  },
+  "43.2": {
+    "code": "43.2",
+    "title": "Épületgépészeti szerelés",
+    "codeAndTitle": "43.2 Épületgépészeti szerelés",
+    "description": "Ebbe az alágazatba tartoznak az épület rendeltetésszerű használatát szolgáló szerelési tevékenységek, beleértve elektromos rendszer, csővezeték (víz, gáz és szennyvíz), fűtő- és légkondicionáló rendszer, felvonó szerelését stb."
+  },
+  "43.3": {
+    "code": "43.3",
+    "title": "Befejező építés",
+    "codeAndTitle": "43.3 Befejező építés"
+  },
+  "43.9": {
+    "code": "43.9",
+    "title": "Egyéb speciális szaképítés",
+    "codeAndTitle": "43.9 Egyéb speciális szaképítés"
+  },
+  "G": {
+    "code": "G",
+    "title": "KERESKEDELEM, GÁPJÁRMŰJAVÍTÁS",
+    "codeAndTitle": "G KERESKEDELEM, GÁPJÁRMŰJAVÍTÁS",
+    "description": "Ez a nemzetgazdasági ág az áruk átalakítás nélküli nagy- és kiskereskedelmét, valamint az áruk értékesítéséhez kapcsolódó szolgáltatásokat tartalmazza. A nagy- és kiskereskedelem az utolsó lépés az áruk elosztásában. A gépjárművek és motorkerékpárok javítása szintén ebbe a nemzetgazdasági ágba tartozik.\n\nAz átalakítás nélküli kereskedelem magában foglalja a kereskedelemhez kapcsolódó szokásos kiegészítő tevékenységeket, műveleteket pl. áruk válogatása, osztályozása, csoportosítása, összeállítása, elegyítése (pl. homok), palackozása (palacktisztítással vagy a nélkül), csomagolása, ömlesztett áruk kiszerelése, újracsomagolása kisebb egységcsomagokba ; raktározás (beleértve a fagyasztó, mélyhűtő raktározást).\n\nA 45-ös ágazat magában foglalja a gépjárművek és motorkerékpárok értékesítéséhez, javításához kapcsolódó valamennyi tevékenységet, míg a 46-os és 47-es ágazatok tartalmazzák az összes többi kereskedelmi tevékenységet. A 46 (Nagykereskedelem) ágazat és a 47 (Kiskereskedelem) ágazat közötti különbségtételnél a vevő jellege a meghatározó.\n\nA nagykereskedelembe tartozik az új és használt áruk átalakítás nélküli viszonteladása kiskereskedőknek, illetve más nagykereskedőknek, értékesítése ipari, kereskedelmi, közületi felhasználóknak üzleti célokra. Szintén ide tartozik az ilyen személyek vagy vállalkozások részére történő áru vétel vagy eladás során az ügynök, illetve a bróker közreműködése. Az ilyen ügyletekkel foglalkozó vállalkozások közé tartoznak az áruk felett rendelkező nagykereskedők, árutőzsde-ügynökségek, ipari elosztók, exportőrök, importőrök, beszerzési társulások, illetve a gyártó- vagy bányászati egységek által termékeik marketingje érdekében fenntartott, a telephelyükben azokétól eltérő értékesítési irodák (ahol nem folyik kiskereskedelmi tevékenység), amelyek nem pusztán a gyártó- vagy bányászati egységtől közvetlen kiszállítással teljesítendő rendelések felvételét végzik. Idetartoznak az árutőzsdei brókerek, megbízásos (bizományos) kereskedők és ügynökök, a mezőgazdasági termékek marketingjével foglalkozó beszerzési és értékesítési társulások is. \n\nA nagykereskedők gyakran fizikailag összerakják, válogatják, osztályozzák a nagytételű árukat, az ömlesztett árukat megbontják, elosztják kisebb kiszerelésbe (pl. gyógyszerek esetében); az árukat raktározzák, hűtik, kiszállítják, üzembe helyezik, részt vesznek az eladásösztönzésben, címketervezésben. \n\nA kiskereskedelembe tartozik az új és használt áruk átalakítás nélküli viszonteladása elsősorban a lakosság részére, személyes vagy háztartási célú fogyasztásra, illetve felhasználásra, üzleteken, áruházakon, piaci és utcai standokon, csomagküldő szolgálatokon, házaló kereskedőkön, fogyasztási szövetkezeteken, fogyasztói csoportokon, aukciós házakon stb. keresztül. A legtöbb kiskereskedő az értékesítendő áru felett tulajdonosi jogot gyakorol, néhány kiskereskedő viszont ügynökként értékesít díjazásért vagy bizományosi alapon.",
+    "inThisSectorMore": "Ebbe a nemzetgazdasági ágba tartozik - magyar kiegészítés:\n- a minden olyan jellegű összeszerelés, összeállítás, amelyet a kereskedő végez, és amely nem eredményez új terméket pl. lapraszerelt bútor összeállítása, kerékpár beüzemelése illetve felszerelése az ügyfél által igényelt plussz kellékekkel (pl. csomagtartó, sárvédő)"
+  },
+  "45.1": {
+    "code": "45.1",
+    "title": "Gépjármű-kereskedelem",
+    "codeAndTitle": "45.1 Gépjármű-kereskedelem"
+  },
+  "45.2": {
+    "code": "45.2",
+    "title": "Gépjárműjavítás, karbantartás",
+    "codeAndTitle": "45.2 Gépjárműjavítás, karbantartás"
+  },
+  "45.3": {
+    "code": "45.3",
+    "title": "Gépjárműalkatrész-kereskedelem",
+    "codeAndTitle": "45.3 Gépjárműalkatrész-kereskedelem",
+    "description": "Idetartozik az új és használt gépjármű-kereskedelem, a gépjármű bontása a még használható és értékesíthető alkatrészeik kereskedelmi értékesítése céljából.\n- gépjármű gumiabroncs és gumibelső\n- gyújtógyertyák, akkumulátorok, járművilágítás, elektromos alkatrészek stb."
+  },
+  "45.4": {
+    "code": "45.4",
+    "title": "Motorkerékpár, -alkatrész kereskedelme, javítása",
+    "codeAndTitle": "45.4 Motorkerékpár, -alkatrész kereskedelme, javítása"
+  },
+  "46.1": {
+    "code": "46.1",
+    "title": "Ügynöki nagykereskedelem",
+    "codeAndTitle": "46.1 Ügynöki nagykereskedelem",
+    "description": "Ebbe az alágazatba tartozik:\n- a más nevében és számlájára végzett ügynöki, árubrókeri, illetve egyéb nagykereskedői tevékenység\n- a vevő és az eladó közötti közvetítés, és/vagy a megbízó nevében kereskedelmi ügylet kötése (beleértve az Interneten történt üzletkötést is)",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a nagykereskedelmi aukciós házak tevékenysége, beleértve az internetes nagykereskedelmi aukciót is"
+  },
+  "46.2": {
+    "code": "46.2",
+    "title": "Mezőgazdasági nyersanyag, élőállat nagykereskedelme",
+    "codeAndTitle": "46.2 Mezőgazdasági nyersanyag, élőállat nagykereskedelme"
+  },
+  "46.3": {
+    "code": "46.3",
+    "title": "Élelmiszer, ital, dohányáru nagykereskedelme",
+    "codeAndTitle": "46.3 Élelmiszer, ital, dohányáru nagykereskedelme"
+  },
+  "46.4": {
+    "code": "46.4",
+    "title": "Háztartási cikk nagykereskedelme",
+    "codeAndTitle": "46.4 Háztartási cikk nagykereskedelme",
+    "description": "Ebbe az alágazatba tartozik a háztartási cikkek nagykereskedelme, beleértve a textíliákat is."
+  },
+  "46.5": {
+    "code": "46.5",
+    "title": "Információtechnológiai, híradástechnikai termék nagykereskedelme",
+    "codeAndTitle": "46.5 Információtechnológiai, híradástechnikai termék nagykereskedelme",
+    "description": "Ebbe az alágazatba tartozik az információ- és kommunikációtechnológiai (ICT) berendezések, például számítógépek, távközlési, híradás-technikai berendezések és alkatrészeik nagykereskedelme."
+  },
+  "46.6": {
+    "code": "46.6",
+    "title": "Egyéb gép, berendezés, tartozék nagykereskedelme",
+    "codeAndTitle": "46.6 Egyéb gép, berendezés, tartozék nagykereskedelme",
+    "description": "Ebbe az alágazatba tartozik bármely iparágban használatos speciális és általános felhasználási célú gép, berendezés és tartozék nagykereskedelme."
+  },
+  "46.7": {
+    "code": "46.7",
+    "title": "Egyéb szakosodott nagykereskedelem",
+    "codeAndTitle": "46.7 Egyéb szakosodott nagykereskedelem",
+    "description": "Ebbe az alágazatba tartoznak az előbbiekben fel nem sorolt egyéb, szakosított nagykereskedelmi tevékenységek. Idetartozik azon félkész (köztes) termékek nagykereskedelme (a mezőgazdasági termékek kivételével), amelyeket jellemzően nem háztartási célra használnak."
+  },
+  "46.9": {
+    "code": "46.9",
+    "title": "Vegyestermékkörű nagykereskedelem",
+    "codeAndTitle": "46.9 Vegyestermékkörű nagykereskedelem"
+  },
+  "47.1": {
+    "code": "47.1",
+    "title": "Nem szakosodott bolti vegyes kiskereskedelem",
+    "codeAndTitle": "47.1 Nem szakosodott bolti vegyes kiskereskedelem",
+    "description": "Ez az alágazat tartalmazza az áruk széles körének kiskereskedelmi értékesítését egyazon, nem szakosodott egységben (üzletben) pl. a szupermarketekben vagy a hagyományos áruházakban."
+  },
+  "47.2": {
+    "code": "47.2",
+    "title": "Élelmiszer-, ital-, dohányáru kiskereskedelme",
+    "codeAndTitle": "47.2 Élelmiszer-, ital-, dohányáru kiskereskedelme"
+  },
+  "47.3": {
+    "code": "47.3",
+    "title": "Gépjármű-üzemanyag kiskereskedelem",
+    "codeAndTitle": "47.3 Gépjármű-üzemanyag kiskereskedelem"
+  },
+  "47.4": {
+    "code": "47.4",
+    "title": "Információs, híradástechnikai termék kiskereskedelme",
+    "codeAndTitle": "47.4 Információs, híradástechnikai termék kiskereskedelme",
+    "description": "Ebbe az alágazatba tartozik az információ- és híradástechnológiai (ICT-) termékek, mint pl. számítógépek, számítógép-perifériák, távközlési, híradás-technikai berendezések, fogyasztói elektronikai termékek szakosodott kiskereskedelme szaküzletben."
+  },
+  "47.5": {
+    "code": "47.5",
+    "title": "Egyéb háztartási cikk kiskereskedelme",
+    "codeAndTitle": "47.5 Egyéb háztartási cikk kiskereskedelme",
+    "description": "Ebbe az alágazatba tartozik a különböző háztartási felszerelések, mint pl. textil, vasáru, elektromos készülékek, bútor szakosodott kiskereskedelme."
+  },
+  "47.6": {
+    "code": "47.6",
+    "title": "Kulturális, szabadidős cikk bolti kiskereskedelme",
+    "codeAndTitle": "47.6 Kulturális, szabadidős cikk bolti kiskereskedelme",
+    "description": "Ebbe az alágazatba tartoznak a kulturális és pihenést segítő (szabadidős) cikkek, mint pl. könyvek, újságok, papíráru, zenei és videofelvételek, sporteszközök, játékok szakosodott kiskereskedelme."
+  },
+  "47.7": {
+    "code": "47.7",
+    "title": "Egyéb m.n.s. áru kiskereskedelme",
+    "codeAndTitle": "47.7 Egyéb m.n.s. áru kiskereskedelme",
+    "description": "Ez az alágazat tartalmazza a máshova nem sorolt árucsoportok szakosodott kiskereskedelmét, ilyen pl. a ruházat, lábbeli és bőráru, gyógyszer és gyógyászati termék, óra, ajándéktárgy, tisztítószer, fegyver, virág, hobbiállat stb.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a használt cikkek szakosodott kiskereskedelme"
+  },
+  "47.8": {
+    "code": "47.8",
+    "title": "Piaci kiskereskedelem",
+    "codeAndTitle": "47.8 Piaci kiskereskedelem",
+    "description": "Ebbe az alágazatba tartoznak azok a kiskereskedelmi tevékenységek, amelyek keretében különböző új vagy használt árukat kínálnak általában mozgatható standokon, közterületen vagy piacokon."
+  },
+  "47.9": {
+    "code": "47.9",
+    "title": "Nem bolti, piaci kiskereskedelem",
+    "codeAndTitle": "47.9 Nem bolti, piaci kiskereskedelem",
+    "description": "Ebbe az alágazatba tartoznak azok a kiskereskedelmi tevékenységek, amelyek keretében a különböző árukat csomagküldő hálózaton, interneten, házaló kereskedők útján, automatán stb. keresztül kínálják."
+  },
+  "H": {
+    "code": "H",
+    "title": "SZÁLLÍTÁS, RAKTÁROZÁS",
+    "codeAndTitle": "H SZÁLLÍTÁS, RAKTÁROZÁS",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik a személy- és teherszállítás vasúton, csővezetéken, közúton, vízi úton vagy légi úton, függetlenül attól, hogy mentrendszerű vagy nem menetrendszerű, továbbá a szállításkiegészítő tevékenység, a pályaudvari, parkolási szolgáltatás, a szállítmánykezelés, raktározás. Ebbe a nemzetgazdasági ágba tartozik a szállítási berendezés bérbeadása is vezetővel vagy pilótával. Idetartozik a postai, futárpostai tevékenység is.",
+    "notInThisSector": "Nem ebbe a nemzetgazdasági ágba tartozik:\n- a közúti gépjármű kivételével a szállítóeszközök nagyjavítása, átalakítása, lásd: 33 ágazat\n- az út, vasút, kikötő, repülőtér építése, karbantartása, javítása, lásd: 42 ágazat\n- a közúti gépjármű javítása és karbantartása, lásd: 45.20, 45.40\n- a szállítóeszköz vezető, kezelő nélküli bérbeadása, lásd: 77.1, 77.3"
+  },
+  "49.1": {
+    "code": "49.1",
+    "title": "Helyközi vasúti személyszállítás",
+    "codeAndTitle": "49.1 Helyközi vasúti személyszállítás"
+  },
+  "49.2": {
+    "code": "49.2",
+    "title": "Vasúti áruszállítás",
+    "codeAndTitle": "49.2 Vasúti áruszállítás"
+  },
+  "49.3": {
+    "code": "49.3",
+    "title": "Egyéb szárazföldi személyszállítás",
+    "codeAndTitle": "49.3 Egyéb szárazföldi személyszállítás",
+    "description": "Az alágazatba tartozik minden szárazföldi személyszállítás a vasúti szállítás kivételével. A városi vagy elővárosi közlekedési rendszerhez tartozó vasúti szállítás azonban idetartozik."
+  },
+  "49.4": {
+    "code": "49.4",
+    "title": "Közúti áruszállítás, költöztetés",
+    "codeAndTitle": "49.4 Közúti áruszállítás, költöztetés",
+    "description": "Az alágazatba tartozik minden szárazföldi áruszállítási tevékenység a vasúti szállítás kivételével."
+  },
+  "49.5": {
+    "code": "49.5",
+    "title": "Csővezetékes szállítás",
+    "codeAndTitle": "49.5 Csővezetékes szállítás"
+  },
+  "50.1": {
+    "code": "50.1",
+    "title": "Tengeri személyszállítás",
+    "codeAndTitle": "50.1 Tengeri személyszállítás",
+    "description": "Ebbe az alágazatba tartozik a személyszállítás tengeri vagy tengerpartmenti hajózásra alkalmas hajóval.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a személyszállítás a nagy tavakon stb. is, amennyiben a szállítás hasonló típusú hajóval történik"
+  },
+  "50.2": {
+    "code": "50.2",
+    "title": "Tengeri áruszállítás",
+    "codeAndTitle": "50.2 Tengeri áruszállítás",
+    "description": "Ebbe az alágazatba tartozik az áruszállítás tengeri vagy tengerpartmenti hajózásra alkalmas hajóval.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- az áruszállítás a nagy tavakon stb. is, amennyiben a szállítás hasonló típusú hajóval történik"
+  },
+  "50.3": {
+    "code": "50.3",
+    "title": "Belvízi személyszállítás",
+    "codeAndTitle": "50.3 Belvízi személyszállítás",
+    "description": "Ebbe az alágazatba tartozik a személyszállítás belvízi, tengeri szállításra nem alkalmas hajókon."
+  },
+  "50.4": {
+    "code": "50.4",
+    "title": "Belvízi áruszállítás",
+    "codeAndTitle": "50.4 Belvízi áruszállítás",
+    "description": "Ebbe az alágazatba tartozik az áruszállítás belvízi, a tengeri szállításra nem alkalmas hajókon."
+  },
+  "51.1": {
+    "code": "51.1",
+    "title": "Légi személyszállítás",
+    "codeAndTitle": "51.1 Légi személyszállítás"
+  },
+  "51.2": {
+    "code": "51.2",
+    "title": "Légi áruszállítás",
+    "codeAndTitle": "51.2 Légi áruszállítás"
+  },
+  "52.1": {
+    "code": "52.1",
+    "title": "Raktározás, tárolás",
+    "codeAndTitle": "52.1 Raktározás, tárolás"
+  },
+  "52.2": {
+    "code": "52.2",
+    "title": "Szállítást kiegészítő tevékenység",
+    "codeAndTitle": "52.2 Szállítást kiegészítő tevékenység",
+    "description": "Ebbe az ágazatba tartozik a személy- és áruszállítást kiegészítő tevékenység, nevezetesen a szállítási infrastruktúra részeinek üzemeltetése, vagy közvetlenül a szállítás előtt és után, vagy a szállítás közbeni árukezelés. Idetartozik az összes létesítmény szállítási üzemeltetése és fenntartása is."
+  },
+  "53.1": {
+    "code": "53.1",
+    "title": "Postai tevékenység (egyetemes kötelezettséggel)",
+    "codeAndTitle": "53.1 Postai tevékenység (egyetemes kötelezettséggel)"
+  },
+  "53.2": {
+    "code": "53.2",
+    "title": "Egyéb postai, futárpostai tevékenység",
+    "codeAndTitle": "53.2 Egyéb postai, futárpostai tevékenység"
+  },
+  "I": {
+    "code": "I",
+    "title": "SZÁLLÁSHELY-SZOLGÁLTATÁS, VENDÉGLÁTÁS",
+    "codeAndTitle": "I SZÁLLÁSHELY-SZOLGÁLTATÁS, VENDÉGLÁTÁS",
+    "description": "Ez a nemzetgazdasági ág tartalmazza a rövid időtartamú tartózkodás céljára a látogatók és egyéb utazók számára nyújtott szálláshely-szolgáltatást, és az azonnal fogyasztásra alkalmas készétel- és italszolgáltatást. A gazdasági ágon belül nyújtott kiegészítő szolgáltatások mennyisége és típusa változatos lehet.",
+    "notInThisSector": "Nem ebbe a gazdasági ágba tartozik a hosszú időtartamú tartózkodást biztosító, elsődlegesen lakóhelynek minősülő szállás biztosítása, lásd, L (Ingatlanügyletek) nemzetgazdasági ág. Nem ebbe a nemzetgazdasági ágba tartozik továbbá a nem azonnali fogyasztásra alkalmas, illetve a független értékesítési csatornán (nagy- és kiskereskedelem) keresztül árusított ételek és italok szolgáltatása. Ezen ételeknek az elkészítése a C (Feldolgozóipar) nemzetgazdasági ág tartozik."
+  },
+  "55.1": {
+    "code": "55.1",
+    "title": "Szállodai szolgáltatás",
+    "codeAndTitle": "55.1 Szállodai szolgáltatás"
+  },
+  "55.2": {
+    "code": "55.2",
+    "title": "Üdülési, egyéb átmeneti szálláshely szolgáltatás",
+    "codeAndTitle": "55.2 Üdülési, egyéb átmeneti szálláshely szolgáltatás"
+  },
+  "55.3": {
+    "code": "55.3",
+    "title": "Kempingszolgáltatás",
+    "codeAndTitle": "55.3 Kempingszolgáltatás"
+  },
+  "55.9": {
+    "code": "55.9",
+    "title": "Egyéb szálláshely-szolgáltatás",
+    "codeAndTitle": "55.9 Egyéb szálláshely-szolgáltatás"
+  },
+  "56.1": {
+    "code": "56.1",
+    "title": "Éttermi-, mozgó vendéglátás",
+    "codeAndTitle": "56.1 Éttermi-, mozgó vendéglátás"
+  },
+  "56.2": {
+    "code": "56.2",
+    "title": "Rendezvényi étkeztetés és egyéb vendéglátás",
+    "codeAndTitle": "56.2 Rendezvényi étkeztetés és egyéb vendéglátás",
+    "description": "Ez az alágazat magában foglalja az egyes eseményekre (eseti étkeztetés) vagy meghatározott időtartamra vonatkozó vendéglátó tevékenységet, valamint a koncesszióval működő kedvezményes étkeztetést, pl. sport- vagy hasonló létesítményekben."
+  },
+  "56.3": {
+    "code": "56.3",
+    "title": "Italszolgáltatás",
+    "codeAndTitle": "56.3 Italszolgáltatás"
+  },
+  "J": {
+    "code": "J",
+    "title": "INFORMÁCIÓ, KOMMUNIKÁCIÓ",
+    "codeAndTitle": "J INFORMÁCIÓ, KOMMUNIKÁCIÓ",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik az információs és kulturális termékek előállítása és elosztása, az információs, kulturális, valamint adat- vagy kommunikációs termékek továbbítása vagy elosztása, információ-technológiai tevékenységek, adatfeldolgozás és egyéb információ-technológiai tevékenység.\n\nEnnek a nemzetgazdasági ágnak a fő tevékenységei: a kiadói tevékenység (58) beleértve a szoftverkiadást, a film-, videogyártás, televízióműsor gyártása, hangfelvétel rögzítése és zenemű kiadását (59), rádió-televízió műsorösszeállítást és műsorszolgáltatást (60), a távközlést (61), az információtechnológiai szolgáltatást (62) és az egyéb információszolgáltatást (63).\n\nA kiadási tevékenységbe tartozik a tartalom szerzői jogának (copyrights) megszerzése, és ezen tartalom nyilvános megosztása a nagyközönséggel bármely formában. Ebbe a nemzetgazdasági ágba tartozik a kiadás minden megjelenési formája (nyomtatva, elektronikus /internet/ vagy audio-, multimédia-termékként, mint CD-ROM stb.).\n\nA televízióműsor-gyártást, a -műsor-összeállítást, -műsor-szolgáltatást és a zenemű terjesztését az 59, 60 és 61 ágazat tartalmazza, ezek a televíziós tevékenység vertikumának különböző részei. Egyedi műsorszámok, mint filmek, televíziós sorozatok gyártása az 59-es ágazatba tartozik, míg egy komplett TV-csatorna program összeállítását az 59-es ágazatban előállított műsorszámokból vagy más elemekből (mint pl. az élő híradás) a 60-as ágazat tartalmazza. Ugyancsak idetartozik ezen programok gyártó általi szétosztása. A 61-es ágazatba tartozik a teljes televíziós műsorok műsorelosztása harmadik fél által, bármilyen tartalmi változtatás nélkül. A műsorok szétosztása, történhet földi, műholdas műsorszóró vagy kábeltévés rendszerek közvetítésével."
+  },
+  "58.1": {
+    "code": "58.1",
+    "title": "Kiadói tevékenység",
+    "codeAndTitle": "58.1 Kiadói tevékenység",
+    "description": "Ebbe az alágazatba tartozik a könyvek, újságok, magazinok és egyéb időszaki kiadványok, címtárak és levelező listák, és egyéb művek kiadása, mint a fénykép, metszet, képeslap, menetrend, formanyomtatvány, poszter és a művészeti reprodukció. Ezeknek, a műveknek az előállításához alkotóképesség szükséges és az alkotást szerzői jog védi."
+  },
+  "58.2": {
+    "code": "58.2",
+    "title": "Szoftverkiadás",
+    "codeAndTitle": "58.2 Szoftverkiadás"
+  },
+  "59.1": {
+    "code": "59.1",
+    "title": "Film-, videó, televízióműsor gyártása",
+    "codeAndTitle": "59.1 Film-, videó, televízióműsor gyártása",
+    "description": "Ebbe az alágazatba tartozik a mozgókép gyártása filmszínházi és nem filmszínházi célra filmen, videoszalagon, DVD-n vagy egyéb hordozón, beleértve a digitális terjesztést is, közvetlen filmszínházi vetítésre vagy televíziós műsorhoz; továbbá e tevékenységeket elősegítő szolgáltatások, mint a szerkesztés, vágás, másolatok készítése stb.; mozgóképek és egyéb filmtermékek (video, DVD stb.) terjesztése más ágazatok számára; valamint vetítésük.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a mozgóképek és egyéb filmek terjesztési jogainak adásvétele"
+  },
+  "59.2": {
+    "code": "59.2",
+    "title": "Hangfelvétel készítése, kiadása",
+    "codeAndTitle": "59.2 Hangfelvétel készítése, kiadása"
+  },
+  "60.1": {
+    "code": "60.1",
+    "title": "Rádió műsorszolgáltatás",
+    "codeAndTitle": "60.1 Rádió műsorszolgáltatás"
+  },
+  "60.2": {
+    "code": "60.2",
+    "title": "Televízióműsor összeállítása, szolgáltatása",
+    "codeAndTitle": "60.2 Televízióműsor összeállítása, szolgáltatása"
+  },
+  "61.1": {
+    "code": "61.1",
+    "title": "Vezetékes távközlés",
+    "codeAndTitle": "61.1 Vezetékes távközlés"
+  },
+  "61.2": {
+    "code": "61.2",
+    "title": "Vezeték nélküli távközlés",
+    "codeAndTitle": "61.2 Vezeték nélküli távközlés"
+  },
+  "61.3": {
+    "code": "61.3",
+    "title": "Műholdas távközlés",
+    "codeAndTitle": "61.3 Műholdas távközlés"
+  },
+  "61.9": {
+    "code": "61.9",
+    "title": "Egyéb távközlés",
+    "codeAndTitle": "61.9 Egyéb távközlés"
+  },
+  "62.0": {
+    "code": "62.0",
+    "title": "Információ-technológiai szolgáltatás",
+    "codeAndTitle": "62.0 Információ-technológiai szolgáltatás"
+  },
+  "63.1": {
+    "code": "63.1",
+    "title": "Adatfeldolgozás, web-hoszting, világháló-portál szolgáltatás",
+    "codeAndTitle": "63.1 Adatfeldolgozás, web-hoszting, világháló-portál szolgáltatás",
+    "description": "Ebbe az alágazatba tartozik az infrastruktúra szolgáltatása, tárhelyet biztosító (hosting), adatfeldolgozó és kapcsolódó egyéb hálózati szolgáltatáshoz, valamint a világhálón kereső eszköz, internetes portál szolgáltatása."
+  },
+  "63.9": {
+    "code": "63.9",
+    "title": "Egyéb információs szolgáltatás",
+    "codeAndTitle": "63.9 Egyéb információs szolgáltatás",
+    "description": "Ebbe az alágazatba tartozik a hírügynökségi, illetve az egyéb, még nem említett információszolgáltatási tevékenység.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a könyvtári és levéltári tevékenység, lásd: 91.01"
+  },
+  "K": {
+    "code": "K",
+    "title": "PÉNZÜGYI, BIZTOSÍTÁSI TEVÉKENYSÉG",
+    "codeAndTitle": "K PÉNZÜGYI, BIZTOSÍTÁSI TEVÉKENYSÉG",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik minden pénzügyi közvetítő tevékenység, beleértve a biztosítást, viszontbiztosítást, nyugdíjalapokat, valamint a pénzügyi közvetítést segítő tevékenységeket.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartoznak még:\n- a befektetési alapok és hasonló pénzügyi vállalkozások"
+  },
+  "64.1": {
+    "code": "64.1",
+    "title": "Monetáris közvetítés",
+    "codeAndTitle": "64.1 Monetáris közvetítés",
+    "description": "Ebbe az alágazatba tartozik:\n- a meghatározott időre lekötött, átruházható betétek formájában megjelenő, naponta elszámolt pénzforrások gyűjtése, melyek a jegybanki források kivételével, a nem pénzügyi szektortól származnak"
+  },
+  "64.2": {
+    "code": "64.2",
+    "title": "Vagyonkezelés (holding)",
+    "codeAndTitle": "64.2 Vagyonkezelés (holding)"
+  },
+  "64.3": {
+    "code": "64.3",
+    "title": "Befektetési alapok és hasonlók",
+    "codeAndTitle": "64.3 Befektetési alapok és hasonlók"
+  },
+  "64.9": {
+    "code": "64.9",
+    "title": "Egyéb pénzügyi közvetítés",
+    "codeAndTitle": "64.9 Egyéb pénzügyi közvetítés",
+    "description": "Ebbe az alágazatba tartoznak a monetáris intézményeken kívüli pénzügyi közvetítők tevékenységei.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a biztosítás és a nyugdíjalapok, lásd: 65 ágazat"
+  },
+  "65.1": {
+    "code": "65.1",
+    "title": "Biztosítás",
+    "codeAndTitle": "65.1 Biztosítás",
+    "description": "Ebbe az alágazatba tartozik az életbiztosítás és annak viszontbiztosítása - megtakarítási elemmel, vagy anélkül -, valamint a nem-életbiztosítás."
+  },
+  "65.2": {
+    "code": "65.2",
+    "title": "Viszontbiztosítás",
+    "codeAndTitle": "65.2 Viszontbiztosítás"
+  },
+  "65.3": {
+    "code": "65.3",
+    "title": "Nyugdíjalapok",
+    "codeAndTitle": "65.3 Nyugdíjalapok"
+  },
+  "66.1": {
+    "code": "66.1",
+    "title": "Pénzügyi kiegészítő tevékenység (kivéve: biztosítás, nyugdíjalap)",
+    "codeAndTitle": "66.1 Pénzügyi kiegészítő tevékenység (kivéve: biztosítás, nyugdíjalap)",
+    "description": "Ebbe az alágazatba tartozik a fizikai formát öltő vagy elektronikus piacok tevékenysége, amelyeken részvény adásvételét, részvényopciók, kötvények vagy árutőzsdei kontraktusok lebonyolítását végzik."
+  },
+  "66.2": {
+    "code": "66.2",
+    "title": "Biztosítást, nyugdíjalapot kiegészítő tevékenység",
+    "codeAndTitle": "66.2 Biztosítást, nyugdíjalapot kiegészítő tevékenység",
+    "description": "Ebbe az alágazatba tartozik a járadék- és egyéb biztosítási szerződések megkötésével kapcsolatos ügynöki (bróker-) tevékenység, valamint az egyéb biztosítási és nyugdíjpénztári tevékenységgel összefüggő kiegészítő szolgáltatás, pl. a kárfelmérés és harmadik személy részére végzett ügyintézés."
+  },
+  "66.3": {
+    "code": "66.3",
+    "title": "Alapkezelés",
+    "codeAndTitle": "66.3 Alapkezelés"
+  },
+  "L": {
+    "code": "L",
+    "title": "INGATLANÜGYLETEK",
+    "codeAndTitle": "L INGATLANÜGYLETEK",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik a bérbeadóként, ügynökként és/vagy brókerként a következő tevékenységek közül egy vagy több végzése: az ingatlan eladása vagy vétele, ingatlan bérbeadása, egyéb ingatlannal kapcsolatos szolgáltatások nyújtása, mint például az ingatlan-értékbecslés vagy ingatlan-letétiügynöki tevékenység.\nAz ebbe az ágba tartozó tevékenységek végezhetők saját és lízingelt ingatlanokra vonatkozóan, díjazásért vagy szerződéses alapon.\n\nEbbe a nemzetgazdasági ágba tartozik az ingatlan-vagyonkezelés.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartozik még:\n- az építmények építése, a tulajdonjog megtartásával vagy az építmény lízingbe adásával együtt"
+  },
+  "68.1": {
+    "code": "68.1",
+    "title": "Saját tulajdonú ingatlan adásvétele",
+    "codeAndTitle": "68.1 Saját tulajdonú ingatlan adásvétele"
+  },
+  "68.2": {
+    "code": "68.2",
+    "title": "Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése",
+    "codeAndTitle": "68.2 Saját tulajdonú, bérelt ingatlan bérbeadása, üzemeltetése"
+  },
+  "68.3": {
+    "code": "68.3",
+    "title": "Ingatlanügynöki, -kezelési szolgáltatás",
+    "codeAndTitle": "68.3 Ingatlanügynöki, -kezelési szolgáltatás"
+  },
+  "M": {
+    "code": "M",
+    "title": "SZAKMAI, TUDOMÁNYOS, MŰSZAKI TEVÉKENYSÉG",
+    "codeAndTitle": "M SZAKMAI, TUDOMÁNYOS, MŰSZAKI TEVÉKENYSÉG",
+    "description": "Ebbe a nemzetgazdasági ágba azok a szakosodott, magas szintű képzettséget igénylő szakértői, természettudományos és műszaki tevékenységek tartoznak, amelyek sajátos tudást, szakismeretet és jártasságot nyújtanak a felhasználók számára."
+  },
+  "69.1": {
+    "code": "69.1",
+    "title": "Jogi tevékenység",
+    "codeAndTitle": "69.1 Jogi tevékenység"
+  },
+  "69.2": {
+    "code": "69.2",
+    "title": "Számviteli, könyvvizsgálói, adószakértői tevékenység",
+    "codeAndTitle": "69.2 Számviteli, könyvvizsgálói, adószakértői tevékenység"
+  },
+  "70.1": {
+    "code": "70.1",
+    "title": "Üzletvezetés",
+    "codeAndTitle": "70.1 Üzletvezetés"
+  },
+  "70.2": {
+    "code": "70.2",
+    "title": "Üzletviteli tanácsadás",
+    "codeAndTitle": "70.2 Üzletviteli tanácsadás"
+  },
+  "71.1": {
+    "code": "71.1",
+    "title": "Mérnöki és építészmérnöki tevékenység; műszaki tanácsadás",
+    "codeAndTitle": "71.1 Mérnöki és építészmérnöki tevékenység; műszaki tanácsadás",
+    "description": "Ebbe az alágazatba tartozik az építészmérnöki, mérnöki szolgáltatás, mérnöki tervezés, az építkezés ellenőrzése, felügyelete, földmérés, térképészeti és egyéb hasonló tevékenység."
+  },
+  "71.2": {
+    "code": "71.2",
+    "title": "Műszaki vizsgálat, elemzés",
+    "codeAndTitle": "71.2 Műszaki vizsgálat, elemzés"
+  },
+  "72.1": {
+    "code": "72.1",
+    "title": "Természettudományi, műszaki kutatás, fejlesztés",
+    "codeAndTitle": "72.1 Természettudományi, műszaki kutatás, fejlesztés",
+    "description": "Ebbe az alágazatba tartozik a természettudományi, a műszaki alapkutatás, az alkalmazott kutatás és a kísérleti fejlesztés."
+  },
+  "72.2": {
+    "code": "72.2",
+    "title": "Társadalomtudományi, humán kutatás, fejlesztés",
+    "codeAndTitle": "72.2 Társadalomtudományi, humán kutatás, fejlesztés",
+    "inThisSubcategoryMore": "Ebbe az alágazatba tartozik - magyar kiegészítés:\n- a társadalomtudományi és humán alapkutatás, alkalmazott kutatás és kísérleti fejlesztés"
+  },
+  "73.1": {
+    "code": "73.1",
+    "title": "Reklám",
+    "codeAndTitle": "73.1 Reklám"
+  },
+  "73.2": {
+    "code": "73.2",
+    "title": "Piac-, közvélemény-kutatás",
+    "codeAndTitle": "73.2 Piac-, közvélemény-kutatás"
+  },
+  "74.1": {
+    "code": "74.1",
+    "title": "Divat-, formatervezés",
+    "codeAndTitle": "74.1 Divat-, formatervezés"
+  },
+  "74.2": {
+    "code": "74.2",
+    "title": "Fényképészet",
+    "codeAndTitle": "74.2 Fényképészet"
+  },
+  "74.3": {
+    "code": "74.3",
+    "title": "Fordítás, tolmácsolás",
+    "codeAndTitle": "74.3 Fordítás, tolmácsolás"
+  },
+  "74.9": {
+    "code": "74.9",
+    "title": "M.n.s. egyéb szakmai, tudományos, műszaki tevékenység",
+    "codeAndTitle": "74.9 M.n.s. egyéb szakmai, tudományos, műszaki tevékenység"
+  },
+  "75.0": {
+    "code": "75.0",
+    "title": "Állat-egészségügyi ellátás",
+    "codeAndTitle": "75.0 Állat-egészségügyi ellátás"
+  },
+  "N": {
+    "code": "N",
+    "title": "ADMINISZTRATÍV ÉS SZOLGÁLTATÁST TÁMOGATÓ TEVÉKENYSÉG",
+    "codeAndTitle": "N ADMINISZTRATÍV ÉS SZOLGÁLTATÁST TÁMOGATÓ TEVÉKENYSÉG",
+    "description": "Ez a nemzetgazdasági ág az általános üzletvitelt támogató tevékenységeket tartalmazza. Ezek a tevékenységek abban különböznek az M ágba tartozóktól, hogy elsődleges céljuk nem speciális tudás (szakértelem) átadása."
+  },
+  "77.1": {
+    "code": "77.1",
+    "title": "Gépjárműkölcsönzés",
+    "codeAndTitle": "77.1 Gépjárműkölcsönzés"
+  },
+  "77.2": {
+    "code": "77.2",
+    "title": "Személyi használatú, háztartási cikk kölcsönzése",
+    "codeAndTitle": "77.2 Személyi használatú, háztartási cikk kölcsönzése",
+    "description": "Ez az alágazat magában foglalja a személyi használatú és háztartási cikkek, továbbá a szabadidős és sportfelszerelések, valamint a videokazetták kölcsönzését.\n\nEbbe az alágazatba általában a javak rövid időtartamú kölcsönzése tartozik, azonban bizonyos esetekben lehetséges a használati cikkek lízingje hosszabb időszakra is."
+  },
+  "77.3": {
+    "code": "77.3",
+    "title": "Egyéb gép, tárgyi eszköz kölcsönzése",
+    "codeAndTitle": "77.3 Egyéb gép, tárgyi eszköz kölcsönzése"
+  },
+  "77.4": {
+    "code": "77.4",
+    "title": "Immateriális javak kölcsönzése",
+    "codeAndTitle": "77.4 Immateriális javak kölcsönzése"
+  },
+  "78.1": {
+    "code": "78.1",
+    "title": "Munkaközvetítés",
+    "codeAndTitle": "78.1 Munkaközvetítés"
+  },
+  "78.2": {
+    "code": "78.2",
+    "title": "Munkaerőkölcsönzés",
+    "codeAndTitle": "78.2 Munkaerőkölcsönzés"
+  },
+  "78.3": {
+    "code": "78.3",
+    "title": "Egyéb emberierőforrás ellátás, -gazdálkodás",
+    "codeAndTitle": "78.3 Egyéb emberierőforrás ellátás, -gazdálkodás"
+  },
+  "79.1": {
+    "code": "79.1",
+    "title": "Utazásközvetítés, utazásszervezés",
+    "codeAndTitle": "79.1 Utazásközvetítés, utazásszervezés",
+    "description": "Ez az alágazat tartalmazza az utazási ügynökségek tevékenységét, amelyek elsősorban út, utazás, szállítás, szálláshely stb. értékesítésében közreműködnek a nagyközönség és üzleti ügyfelek számára, valamint utak szervezését és összeállítását, amit utazásközvetítők vagy közvetlenül az utazásszervezők értékesítenek."
+  },
+  "79.9": {
+    "code": "79.9",
+    "title": "Egyéb foglalás",
+    "codeAndTitle": "79.9 Egyéb foglalás"
+  },
+  "80.1": {
+    "code": "80.1",
+    "title": "Személybiztonsági tevékenység",
+    "codeAndTitle": "80.1 Személybiztonsági tevékenység"
+  },
+  "80.2": {
+    "code": "80.2",
+    "title": "Biztonsági rendszer szolgáltatás",
+    "codeAndTitle": "80.2 Biztonsági rendszer szolgáltatás"
+  },
+  "80.3": {
+    "code": "80.3",
+    "title": "Nyomozás",
+    "codeAndTitle": "80.3 Nyomozás"
+  },
+  "81.1": {
+    "code": "81.1",
+    "title": "Építmény-üzemeltetés",
+    "codeAndTitle": "81.1 Építmény-üzemeltetés"
+  },
+  "81.2": {
+    "code": "81.2",
+    "title": "Takarítás",
+    "codeAndTitle": "81.2 Takarítás",
+    "description": "Ebbe az alágazatba tartozik minden épülettípus általános belső és/vagy külső takarítása, épületek speciális takarítása, valamint egyéb speciális takarítási szolgáltatás, mint például ipari gépek tisztítása, szárazföldi és tengeri tartályok belső tisztítása, épületek és ipari gépezet fertőtlenítése és kártevőirtása, üvegtisztítás, utcaseprés, hó- és jégeltakarítás.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a mezőgazdasági kártevőirtást, lásd: 01.61\n- az új épületeknek közvetlenül az építkezés befejezése utáni első takarítása, lásd: 43.39\n- a gőztisztítást, a homokfúvást és más hasonló épülethomlokzat tisztítási eljárást, lásd: 43.99\n- a szőnyeg- és kárpittisztítást, a drapéria- és függönytisztítást, lásd: 96.01"
+  },
+  "81.3": {
+    "code": "81.3",
+    "title": "Zöldterület-kezelés",
+    "codeAndTitle": "81.3 Zöldterület-kezelés"
+  },
+  "82.1": {
+    "code": "82.1",
+    "title": "Adminisztratív-, kiegészítő szolgáltatás",
+    "codeAndTitle": "82.1 Adminisztratív-, kiegészítő szolgáltatás",
+    "description": "Ebbe az alágazatba tartozik a mások számára nyújtott mindennapi irodai adminisztratív szolgáltatások széles köre, mint pl. pénzügyi tervezés, számlázás és bizonylatolás, személyzet és fizikai eszközök elosztása és logisztikája díjazásért vagy szerződéses alapon.",
+    "inThisSubcategory": "Ebbe az alágazatba tartoznak még:\n- a mások számára díjazásért vagy szerződéses alapon nyújtott azon kiegészítő tevékenységek, amelyek folyó rutin üzletviteli feladatok, és amelyeket a vállalkozások és szervezetek hagyományosan önmaguk látnak el",
+    "notInThisSubcategory": "A tevékenységet ellátó alkalmazottak nem a teljes üzletvitelt bonyolítják le. Amennyiben a megbízott ezen kisegítő tevékenységeknek egy meghatározott részét végzi, úgy tevékenységét az annak megfelelő szakágazatba kell sorolni."
+  },
+  "82.2": {
+    "code": "82.2",
+    "title": "Telefoninformáció",
+    "codeAndTitle": "82.2 Telefoninformáció"
+  },
+  "82.3": {
+    "code": "82.3",
+    "title": "Konferencia, kereskedelmi bemutató szervezése",
+    "codeAndTitle": "82.3 Konferencia, kereskedelmi bemutató szervezése"
+  },
+  "82.9": {
+    "code": "82.9",
+    "title": "Egyéb kiegészítő gazdasági tevékenység",
+    "codeAndTitle": "82.9 Egyéb kiegészítő gazdasági tevékenység",
+    "description": "Ebbe az alágazatba tartoznak a gyűjtő-, beszerzőügynöki tevékenység, a hitelképesség-vizsgálat, a hitelminősítés, a számlagyűjtés, az utalványozás, a követelésállomány vásárlása, és azok a jellemzően üzleti támogatótevékenységek, amelyek nincsenek máshová besorolva."
+  },
+  "O": {
+    "code": "O",
+    "title": "KÖZIGAZGATÁS, VÉDELEM; KÖTELEZŐ TÁRSADALOMBIZTOSÍTÁS",
+    "codeAndTitle": "O KÖZIGAZGATÁS, VÉDELEM; KÖTELEZŐ TÁRSADALOMBIZTOSÍTÁS",
+    "description": "Ez a nemzetgazdasági ág azokat a kormányzati, államháztartási típusú tevékenységeket foglalja magában, amelyeket rendszerint a közigazgatás hajt végre. Magában foglalja a törvényhozást, a jogszabályok jogi értelmezését és szabályoknak való megfelelősségét, valamint az azokon alapuló programok igazgatását, jogalkotást, adóztatást, honvédelmet, közrendet és közbiztonságot, bevándorlást, külügyeket és a kormányzati programok igazgatását.\n\nA jogi vagy intézményi státuszból önmagában nem feltétlenül következik, hogy az adott tevékenység ebbe a nemzetgazdasági ágba tartozik, hanem azt a tevékenység előzőekben részletezett sajátosságai határozzák meg. Ez azt jelenti, hogy a TEÁOR-ban máshova sorolt tevékenységek nem tartoznak ebbe a nemzetgazdasági ágba, még akkor sem, ha államháztartási szervezet végzi azokat. Például az iskolarendszer igazgatása (szabályozás, ellenőrzés, tananyag) ebbe a nemzetgazdasági ágba tartozik, de önmagában az oktatás nem, lásd: a P (Oktatás) nemzetgazdasági ágat, a börtön- vagy katonai kórház pedig az egészségügybe tartozik, lásd: Q (Humánegészségügyi, szociális ellátás) nemzetgazdasági ág. Ugyanakkor egyes, ebben a nemzetgazdasági ágban meghatározott tevékenységeket nem államháztartási szervezetek is végezhetnek.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartozik még:\n- a kötelező társadalombiztosítás"
+  },
+  "84.1": {
+    "code": "84.1",
+    "title": "Közigazgatás",
+    "codeAndTitle": "84.1 Közigazgatás",
+    "description": "Ebbe az alágazatba tartozik az általános közigazgatás (államapparátusi) (pl. végrehajtási, törvényhozási, pénzügyi igazgatás stb. a kormányzat minden szintjén), valamint a társadalmi és a gazdasági élet felügyelete, ellenőrzése."
+  },
+  "84.2": {
+    "code": "84.2",
+    "title": "Társadalmi közszolgáltatás",
+    "codeAndTitle": "84.2 Társadalmi közszolgáltatás",
+    "description": "Ebbe az alágazatba tartoznak a külügyek, a honvédelem, a közrend és a közbiztonság."
+  },
+  "84.3": {
+    "code": "84.3",
+    "title": "Kötelező társadalombiztosítás",
+    "codeAndTitle": "84.3 Kötelező társadalombiztosítás"
+  },
+  "P": {
+    "code": "P",
+    "title": "OKTATÁS",
+    "codeAndTitle": "P OKTATÁS",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik minden szintű és bármely szakmára felkészítő oktatás. Az oktatás szóban, írásban, rádión, televízión vagy egyéb kommunikációs csatornán keresztül történhet. Ez a nemzetgazdasági ág tartalmazza az iskolarendszerű nappali oktatás különböző szintjeit, valamint a felnőttképzést, az egyes írás-olvasás kurzusokat stb. Idetartoznak a katonai képzések, a fogvatartottaknak szervezett programok stb. adott szintjeikkel.\n\nAz alap- és középfokú oktatás minden szintjén tartalmazza a testi és szellemi fogyatékkal élők speciális oktatását. A nemzetgazdasági ágba tartozó csoportok felosztása az ISCED 1997 által meghatározott oktatási szinteket követi.\n\nA nemzetgazdasági ág tartalmazza mind az állami, mind a magánoktatást.",
+    "inThisSector": "Ebbe a nemzetgazdasági ágba tartoznak még:\n- azok képzések, amelyek elsősorban a sporttal, szórakozással kapcsolatos tevékenységekre irányulnak, például tenisz- vagy golftanfolyam, valamint az oktatást segítő tevékenységek"
+  },
+  "85.1": {
+    "code": "85.1",
+    "title": "Iskolai előkészítő oktatás",
+    "codeAndTitle": "85.1 Iskolai előkészítő oktatás"
+  },
+  "85.2": {
+    "code": "85.2",
+    "title": "Alapfokú oktatás",
+    "codeAndTitle": "85.2 Alapfokú oktatás"
+  },
+  "85.3": {
+    "code": "85.3",
+    "title": "Középfokú oktatás",
+    "codeAndTitle": "85.3 Középfokú oktatás",
+    "description": "Ez az alágazat tartalmazza mind az általános, mind a szakmai előkészítő, mind a szakmai középfokú képzési programokat.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a felnőttképzés, a 85.5 alágazatban meghatározottak szerint"
+  },
+  "85.4": {
+    "code": "85.4",
+    "title": "Felső szintű oktatás",
+    "codeAndTitle": "85.4 Felső szintű oktatás",
+    "description": "Ebbe az alágazatba tartoznak a középfokú, graduális és posztgraduális szintű végzettséget adó, középfok utáni nem felsőfokú szintű, valamint a felsőoktatási képzési programok. A szintre bekerülés feltétele legalább középiskolai érettségi, vagy az azzal egyenértékű képzés. Ebbe az alágazatba tartozik a felsőoktatás minden formája, pl. az intézményben, iskolarendszerű oktatásban, munkahelyen, vagy otthon folytatott képzésként, illetve rádión, televízión, internet útján, vagy egyéb formában biztosított felsőfokú oktatás.\n\nEzen a szinten nagyszámú szakiránykínálat lehetséges, amelyek közül egyesek több elméleti, mások több gyakorlati ismeretet nyújthatnak.\n\nA képzés folyhat tanteremben, rádión, televízión, internet útján, vagy levelező formában.",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartozik:\n- a felnőttképzés 85.5 alágazatban meghatározottak szerint"
+  },
+  "85.5": {
+    "code": "85.5",
+    "title": "Egyéb oktatás",
+    "codeAndTitle": "85.5 Egyéb oktatás",
+    "description": "Ez az alágazat bármilyen szakmai, hobbi vagy önfejlesztési célú általános és szakmai továbbképzést tartalmaz.\n\nEbbe az alágazatba tartozik a táborban és iskolában folyó csoportos és egyéni sporttanfolyam, az idegen nyelvi képzés, a művészeti (dráma-, zene-) képzés és egyéb szakképzés, amelyeket elsősorban felnőtteknek szerveznek és nem tartoznak a 85.1-85.4 alágazatba.",
+    "inThisSubcategoryMore": "Ebbe az alágazatba tartozik - magyar kiegészítés:\n- az oktatás, szakmai képzés bármely formáját tartalmazhatja, amely nem tartozik az iskola előkészítő, alap-, közép- és felsőszintű oktatás (85.1-85.4) alágazatába, függetlenül attól, hogy az ismeretet írásban, szóban, rádión, televízión, internet útján, vagy egyéb formában közvetítik \n- a tudományos, szakmai előadások tartása",
+    "notInThisSubcategory": "Nem ebbe az alágazatba tartoznak:\n- azok az oktatási, képzési tevékenységek, amelyek az iskola előkészítő, az alap-, közép- és felsőszintű oktatás (85.1-85.4) alágazataiban szerepelnek"
+  },
+  "85.6": {
+    "code": "85.6",
+    "title": "Oktatást kiegészítő tevékenység",
+    "codeAndTitle": "85.6 Oktatást kiegészítő tevékenység"
+  },
+  "Q": {
+    "code": "Q",
+    "title": "HUMÁN-EGÉSZSÉGÜGYI, SZOCIÁLIS ELLÁTÁS",
+    "codeAndTitle": "Q HUMÁN-EGÉSZSÉGÜGYI, SZOCIÁLIS ELLÁTÁS",
+    "description": "Ebbe a nemzetgazdasági ágba tartozik az egészségügyi és a szociális ellátás. A nemzetgazdasági ág a tevékenységek széles körét öleli fel: a kórházakban és egyéb egészségügyi intézményekben a képzett egészségügyi személyzet által nyújtott ellátástól a bizonyos fokú egészségügyi ellátást is biztosító bentlakásos intézmények tevékenységén keresztül az egészségügyi szakemberek bevonása nélkül végzett szociális ellátásig."
+  },
+  "86.1": {
+    "code": "86.1",
+    "title": "Fekvőbeteg-ellátás",
+    "codeAndTitle": "86.1 Fekvőbeteg-ellátás"
+  },
+  "86.2": {
+    "code": "86.2",
+    "title": "Járóbeteg-ellátás, fogorvosi ellátás",
+    "codeAndTitle": "86.2 Járóbeteg-ellátás, fogorvosi ellátás",
+    "description": "Ebbe az alágazatba tartozik az általános orvosi és a szakorvosi (beleértve a sebészi-, a fogorvosi vizsgálatot) konzultáció és gyógykezelés.\n\nEzeket a tevékenységeket végezhetik magánrendelőkben és a kórházakhoz integrált járóbeteg-szakrendelőkben, valamint gazdasági társaságokhoz, iskolákhoz, idősekotthonaihoz, érdekvédelmi és önsegélyző szervezetekhez tartozó rendelőkben csakúgy, mint a betegek otthonában.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\n- a fekvőbetegeknek nyújtott magánkonzultációs szolgáltatás is",
+    "inThisSubcategoryMore": "Ebbe az alágazatba tartozik - magyar kiegészítés:\n- a minden egészségügyi szolgáltatást nyújtó járóbeteg-ellátás, fogorvosi ellátás, függetlenül azok működtetés formáitól (állami, egyházi, alapítványi, magán, illetve gazdasági társaság)\n- a járóbeteg ellátás szakambulanciákon"
+  },
+  "86.9": {
+    "code": "86.9",
+    "title": "Egyéb humán-egészségügyi ellátás",
+    "codeAndTitle": "86.9 Egyéb humán-egészségügyi ellátás"
+  },
+  "87.1": {
+    "code": "87.1",
+    "title": "Bentlakásos, nem kórházi ápolás",
+    "codeAndTitle": "87.1 Bentlakásos, nem kórházi ápolás"
+  },
+  "87.2": {
+    "code": "87.2",
+    "title": "Értelmi fogyatékos, mentális-, szenvedélybeteg bentlakásos ellátása",
+    "codeAndTitle": "87.2 Értelmi fogyatékos, mentális-, szenvedélybeteg bentlakásos ellátása"
+  },
+  "87.3": {
+    "code": "87.3",
+    "title": "Idősek, fogyatékosok bentlakásos ellátása",
+    "codeAndTitle": "87.3 Idősek, fogyatékosok bentlakásos ellátása"
+  },
+  "87.9": {
+    "code": "87.9",
+    "title": "Egyéb bentlakásos ellátás",
+    "codeAndTitle": "87.9 Egyéb bentlakásos ellátás"
+  },
+  "88.1": {
+    "code": "88.1",
+    "title": "Idősek, fogyatékosok szociális ellátása bentlakás nélkül",
+    "codeAndTitle": "88.1 Idősek, fogyatékosok szociális ellátása bentlakás nélkül"
+  },
+  "88.9": {
+    "code": "88.9",
+    "title": "Egyéb szociális ellátás bentlakás nélkül",
+    "codeAndTitle": "88.9 Egyéb szociális ellátás bentlakás nélkül"
+  },
+  "R": {
+    "code": "R",
+    "title": "MŰVÉSZET, SZÓRAKOZTATÁS, SZABADIDŐ",
+    "codeAndTitle": "R MŰVÉSZET, SZÓRAKOZTATÁS, SZABADIDŐ",
+    "description": "Ebbe a nemzetgazdasági ágba a nagyközönség igényeinek megfelelően, a kulturális, szórakoztatási és szabadidős tevékenységek széles skálája tartozik, beleértve az élő előadást, a múzeumok működtetését, a szerencsejáték, a sport és szabadidős tevékenységeket."
+  },
+  "90.0": {
+    "code": "90.0",
+    "title": "Alkotó-, művészeti-, szórakoztató tevékenység",
+    "codeAndTitle": "90.0 Alkotó-, művészeti-, szórakoztató tevékenység",
+    "description": "Ebbe az alágazatba tartoznak az alkotói, előadó-művészeti és az ehhez kapcsolódó tevékenységek."
+  },
+  "91.0": {
+    "code": "91.0",
+    "title": "Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység",
+    "codeAndTitle": "91.0 Könyvtári, levéltári, múzeumi, egyéb kulturális tevékenység"
+  },
+  "92.0": {
+    "code": "92.0",
+    "title": "Szerencsejáték, fogadás",
+    "codeAndTitle": "92.0 Szerencsejáték, fogadás"
+  },
+  "93.1": {
+    "code": "93.1",
+    "title": "Sporttevékenység",
+    "codeAndTitle": "93.1 Sporttevékenység",
+    "description": "Ebbe az alágazatba tartozik a sportlétesítmények működtetése; a sportegyesületek, klubok, független sportolók tevékenysége, akit elsődlegesen fizető közönség előtti élő sporteseményen vesznek részt; az elsődlegesen versenyzésre fejlesztett gépjárművek, tenyésztett kutyák, lovak stb. tulajdonosainak tevékenysége; a sportedzők szakosodott tevékenysége, akik segítik a felkészülést különböző sporteseményekre, versenyekre; a sportarénák, stadionok, egyéb sportpályák kezelőinek tevékenysége; egyéb, a sporttal kapcsolatos (szervezői, promóciós, irányítói) tevékenység, m.n.s.."
+  },
+  "93.2": {
+    "code": "93.2",
+    "title": "Egyéb szórakoztatás, szabadidős tevékenység",
+    "codeAndTitle": "93.2 Egyéb szórakoztatás, szabadidős tevékenység",
+    "description": "Ez az alágazat tartalmazza az érdeklődésre számot tartó szabadidős tevékenységeket nyújtó létesítmények szolgáltatásainak széles választékát. Idetartozik a különböző vásári eszközök működtetése, mint pl. a csúszda, vízi csúszda, vidámpark, piknikterületek üzemeltetése, játékok, mutatványok, tematikus bemutatók működtetése és szervezése.",
+    "notInThisSubcategory": "Nem idetartozik a sport-, a színművészeti és zeneművészeti, valamint az egyéb művészeti és szórakoztatással kapcsolatos tevékenység."
+  },
+  "S": {
+    "code": "S",
+    "title": "EGYÉB SZOLGÁLTATÁS",
+    "codeAndTitle": "S EGYÉB SZOLGÁLTATÁS",
+    "description": "Ez a nemzetgazdasági ág (maradék kategóriaként) tartalmazza az érdekképviseletek tevékenységét, a számítógépek, illetve személyes és háztartási cikkek javítását, továbbá számos máshova nem sorolt személyi szolgáltatást."
+  },
+  "94.1": {
+    "code": "94.1",
+    "title": "Vállalkozói, szakmai érdekképviselet",
+    "codeAndTitle": "94.1 Vállalkozói, szakmai érdekképviselet",
+    "description": "Ez az alágazat tartalmazza azon egységek tevékenységeit, amelyek az üzleti, illetve munkaadói szervezetek tagjainak érdekeit támogatják.",
+    "inThisSubcategory": "Ebbe az alágazatba tartozik még:\nA szakmai érdekképviselet esetében az adott szakmába tartozók szakmai érdekeinek képviselete is."
+  },
+  "94.2": {
+    "code": "94.2",
+    "title": "Szakszervezeti tevékenység",
+    "codeAndTitle": "94.2 Szakszervezeti tevékenység"
+  },
+  "94.9": {
+    "code": "94.9",
+    "title": "Egyéb közösségi, társadalmi tevékenység",
+    "codeAndTitle": "94.9 Egyéb közösségi, társadalmi tevékenység",
+    "description": "Ebbe az alágazatba tartozik a tagjai érdekeit képviselő egység tevékenysége:\n- a gazdasági, munkaadói, szakmai, egyházi szervezetek és szakszervezetek hasonló tevékenységének kivételével"
+  },
+  "95.1": {
+    "code": "95.1",
+    "title": "Számítógép, kommunikációs eszköz javítása",
+    "codeAndTitle": "95.1 Számítógép, kommunikációs eszköz javítása",
+    "description": "Ebbe az alágazatba tartozik a számítógépek és perifériák, valamint a kommunikációs eszközök javítása és karbantartása."
+  },
+  "95.2": {
+    "code": "95.2",
+    "title": "Személyi-, háztartási cikk javítása",
+    "codeAndTitle": "95.2 Személyi-, háztartási cikk javítása",
+    "description": "Ebbe az alágazatba tartozik a személyi és háztartási cikkek javítása és szervizelése."
+  },
+  "96.0": {
+    "code": "96.0",
+    "title": "Egyéb személyi szolgáltatás",
+    "codeAndTitle": "96.0 Egyéb személyi szolgáltatás"
+  },
+  "T": {
+    "code": "T",
+    "title": "HÁZTARTÁS MUNKAADÓI TEVÉKENYSÉGE; TERMÉK ELŐÁLLÍTÁSA, SZOLGÁLTATÁS VÉGZÉSE SAJÁT FOGYASZTÁSRA",
+    "codeAndTitle": "T HÁZTARTÁS MUNKAADÓI TEVÉKENYSÉGE; TERMÉK ELŐÁLLÍTÁSA, SZOLGÁLTATÁS VÉGZÉSE SAJÁT FOGYASZTÁSRA",
+    "inThisSectorMore": "Ebbe a nemzetgazdasági ágba tartozik - magyar kiegészítés:\n- a háztartások tevékenysége, mint munkaadó; háztartás termék előállítása saját fogyasztásra és szolgáltatás végzése"
+  },
+  "97.0": {
+    "code": "97.0",
+    "title": "Háztartási alkalmazottat foglalkoztató magánháztartás",
+    "codeAndTitle": "97.0 Háztartási alkalmazottat foglalkoztató magánháztartás"
+  },
+  "98.1": {
+    "code": "98.1",
+    "title": "Háztartás termék-előállítása saját fogyasztásra",
+    "codeAndTitle": "98.1 Háztartás termék-előállítása saját fogyasztásra"
+  },
+  "98.2": {
+    "code": "98.2",
+    "title": "Háztartás szolgáltatása saját fogyasztásra",
+    "codeAndTitle": "98.2 Háztartás szolgáltatása saját fogyasztásra"
+  },
+  "U": {
+    "code": "U",
+    "title": "TERÜLETEN KÍVÜLI SZERVEZET",
+    "codeAndTitle": "U TERÜLETEN KÍVÜLI SZERVEZET"
+  },
+  "99.0": {
+    "code": "99.0",
+    "title": "Területen kívüli szervezet",
+    "codeAndTitle": "99.0 Területen kívüli szervezet"
+  }
+}
