@@ -1,0 +1,16 @@
+{
+  "name": "teaor-xls-to-json",
+  "version": "1.0.0",
+  "description": "Generate JSON from TEAOR.xls",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.2/xlsx-0.19.2.tgz"
+  }
+}
